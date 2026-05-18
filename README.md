@@ -20,9 +20,7 @@
 
 ## H5 测试版发布
 
-项目已新增独立 H5 测试版，源码位于 `h5/` 目录，可作为静态站点发布。GitHub Pages 发布使用 GitHub Actions，工作流见 `.github/workflows/deploy-h5-pages.yml`。
-
-首次启用时，在 GitHub 仓库页面进入 `Settings` -> `Pages`，将 `Build and deployment` 的 `Source` 设为 `GitHub Actions`。之后推送 `main` 分支，或在 Actions 页面手动运行 `Deploy H5 to GitHub Pages`，即可把 `h5/` 发布为 Pages 站点。
+项目已新增独立 H5 测试版，点击以访问[随手刷题 H5](https://mmircle.github.io/red-quiz-miniapp/)，源码位于 `h5/` 目录。
 
 更多说明见 `h5/README.md`。
 
