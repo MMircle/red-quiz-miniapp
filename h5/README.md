@@ -29,4 +29,4 @@
 
 仓库已提供 `.github/workflows/deploy-h5-pages.yml`，会在 `main` 分支的 `h5/**` 变更后自动把 `h5/` 作为 GitHub Pages 站点根目录发布。
 
-首次使用前，在 GitHub 仓库页面进入 `Settings` -> `Pages`，将 `Build and deployment` 的 `Source` 设为 `GitHub Actions`。之后推送到 `main` 或手动运行 `Deploy H5 to GitHub Pages` workflow 即可发布。
+首次使用前，在 GitHub 仓库页面进入 `Settings` -> `Pages`，将 `Build and deployment` 的 `Source` 设为 `GitHub Actions`。之后推送到 `main` 或手动运行 `Deploy H5 to GitHub Pages` workflow 即可发布。1
