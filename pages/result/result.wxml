@@ -33,7 +33,27 @@
     <view class="panel">
       <text class="section-title">错题回看</text>
       <view wx:if="{{!result.mistakes.length}}" class="muted">没有错题可回看。</view>
-      <view wx:for="{{result.mistakes}}" wx:key="id" class="mistake-card">
+      <block wx:else>
+        <view class="mistake-nav">
+          <view
+            wx:for="{{result.mistakes}}"
+            wx:key="id"
+            data-index="{{item.index}}"
+            bindtap="jumpToMistake"
+            class="mistake-number {{activeMistakeIndex === item.index ? 'active' : ''}}"
+          >
+            {{item.index}}
+          </view>
+        </view>
+        <view class="mistake-tip">点击题号展开对应错题，再点一次可收起。</view>
+      </block>
+      <view
+        wx:for="{{result.mistakes}}"
+        wx:key="id"
+        wx:if="{{activeMistakeIndex === item.index}}"
+        id="mistake-{{item.index}}"
+        class="mistake-card"
+      >
         <view class="mistake-head">
           <text>第{{item.index}}题 · {{item.typeLabel}}</text>
           <text>{{item.categoryLabel}}</text>

@@ -43,15 +43,23 @@
   </view>
 
   <view class="panel">
-    <text class="section-title">题目格式</text>
+    <text class="section-title">答题说明</text>
     <view class="format-block">
       <text class="format-title">单选题</text>
-      <text class="format-text">type: single；answer 只放 1 个选项 key。</text>
+      <text class="format-text">每题只有一个正确答案，点击选项后按页面按钮继续。</text>
     </view>
     <view class="format-block">
       <text class="format-title">多选题</text>
-      <text class="format-text">type: multiple；answer 放 2 个及以上选项 key，评分要求完全一致。</text>
+      <text class="format-text">每题可能有多个正确答案，可反复点选或取消，需全部选对才得分。</text>
     </view>
-    <view class="muted">完整示例和扩充说明见 README.md，题库文件位于 data/questionBank.js。</view>
+    <view class="format-block">
+      <text class="format-title">标记技巧</text>
+      <text class="format-text">遇到不确定的题目可先点“标记本题”，最后通过题号面板集中回看。</text>
+    </view>
+    <view class="format-block">
+      <text class="format-title">选题技巧</text>
+      <text class="format-text">点击“题号”可快速跳到指定题目，金色题号表示已作答，带角标表示已标记。</text>
+    </view>
+    <view class="muted">十题快练会逐题展示解析；五十题精练可先标记题目，最后统一提交查看成绩分析。</view>
   </view>
 </view>

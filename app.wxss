@@ -12,8 +12,12 @@ button {
 }
 
 button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   border-radius: 8px;
   font-weight: 600;
+  line-height: 1.2;
 }
 
 button::after {
@@ -26,8 +30,14 @@ button::after {
 }
 
 .primary-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   height: 88rpx;
-  line-height: 88rpx;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0 24rpx;
+  line-height: 1.2;
   background: #b5121b;
   color: #fff8ed;
   border-radius: 8px;
@@ -40,8 +50,14 @@ button::after {
 }
 
 .ghost-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   height: 80rpx;
-  line-height: 80rpx;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0 24rpx;
+  line-height: 1.2;
   color: #8d1118;
   background: #fff4e0;
   border: 2rpx solid #e7c89b;

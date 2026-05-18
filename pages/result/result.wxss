@@ -104,6 +104,39 @@
   content: "";
 }
 
+.mistake-nav {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 14rpx;
+}
+
+.mistake-number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 72rpx;
+  color: #fff8ed;
+  font-size: 26rpx;
+  font-weight: 800;
+  background: #b5121b;
+  border: 2rpx solid #b5121b;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+.mistake-number.active {
+  color: #7d1016;
+  background: #ffe2a6;
+  border-color: #d59b2b;
+}
+
+.mistake-tip {
+  margin-top: 14rpx;
+  color: #806666;
+  font-size: 24rpx;
+  line-height: 1.5;
+}
+
 .mistake-card {
   margin-top: 22rpx;
   padding: 24rpx;
@@ -156,9 +189,23 @@
 
 .result-actions {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   gap: 18rpx;
   margin-top: 28rpx;
+}
+
+.result-actions .ghost-button,
+.result-actions .primary-button {
+  width: 100%;
+  height: 88rpx;
+  margin: 0;
+  padding: 0 20rpx;
+  border-width: 2rpx;
+  box-sizing: border-box;
+}
+
+.result-actions .primary-button {
+  border: 2rpx solid #b5121b;
 }
 
 .empty-panel {

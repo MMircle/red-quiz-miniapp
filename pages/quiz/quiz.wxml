@@ -18,10 +18,42 @@
       <view class="progress-fill" style="width: {{progressPercent}}%;"></view>
     </view>
 
+    <view class="tool-row">
+      <view class="tool-button" bindtap="toggleQuestionPanel">题号 {{answeredCount}}/{{questions.length}}</view>
+      <view class="tool-button {{isCurrentMarked ? 'marked' : ''}}" bindtap="toggleMark">
+        {{isCurrentMarked ? '取消标记' : '标记本题'}}
+      </view>
+    </view>
+
+    <view wx:if="{{showQuestionPanel}}" class="question-panel">
+      <view class="panel-head">
+        <text>快速选题号</text>
+        <text>已标记 {{markedCount}} 题</text>
+      </view>
+      <view class="number-grid">
+        <view
+          wx:for="{{navItems}}"
+          wx:key="number"
+          data-index="{{index}}"
+          bindtap="jumpToQuestion"
+          class="number-item {{item.current ? 'current' : ''}} {{item.answered ? 'answered' : ''}} {{item.submitted ? 'submitted' : ''}} {{item.marked ? 'marked' : ''}}"
+        >
+          <text>{{item.number}}</text>
+          <text wx:if="{{item.marked}}" class="mark-dot"></text>
+        </view>
+      </view>
+      <view class="legend-row">
+        <text>红框当前题</text>
+        <text>金底已作答</text>
+        <text>角标为已标记</text>
+      </view>
+    </view>
+
     <view class="question-card">
       <view class="question-meta">
         <text class="type-badge">{{currentQuestion.typeLabel}}</text>
         <text class="category-badge">{{currentQuestion.categoryLabel}}</text>
+        <text wx:if="{{isCurrentMarked}}" class="mark-badge">已标记</text>
       </view>
       <view class="question-stem">{{currentQuestion.stem}}</view>
 
@@ -45,13 +77,9 @@
         <view class="feedback-line">知识点：{{currentQuestion.knowledgePoint}}</view>
         <view class="feedback-explain">{{currentQuestion.explanation}}</view>
       </view>
-
-      <view wx:if="{{currentAnswer.submitted && !modeConfig.instantFeedback}}" class="locked-note">
-        已提交，本模式将在交卷后统一展示答案与解析。
-      </view>
     </view>
 
-    <view class="action-row">
+    <view wx:if="{{modeConfig.instantFeedback}}" class="action-row">
       <button class="ghost-button nav-button" disabled="{{isFirst}}" bindtap="prevQuestion">上一题</button>
       <button
         wx:if="{{!currentAnswer.submitted}}"
@@ -74,6 +102,24 @@
         bindtap="finishQuiz"
       >
         查看结果
+      </button>
+    </view>
+
+    <view wx:else class="action-row">
+      <button class="ghost-button nav-button" disabled="{{isFirst}}" bindtap="prevQuestion">上一题</button>
+      <button
+        wx:if="{{!isLast}}"
+        class="primary-button submit-button"
+        bindtap="nextQuestion"
+      >
+        下一题
+      </button>
+      <button
+        wx:else
+        class="primary-button submit-button"
+        bindtap="finishQuiz"
+      >
+        提交试卷
       </button>
     </view>
   </block>
