@@ -1,0 +1,151 @@
+.home-page {
+  padding-top: 24rpx;
+}
+
+.hero {
+  padding: 44rpx 34rpx;
+  color: #fff8ed;
+  background: linear-gradient(135deg, #8d1118 0%, #c91d25 64%, #e4a33a 100%);
+  border-radius: 8px;
+  box-shadow: 0 20rpx 50rpx rgba(141, 17, 24, 0.22);
+}
+
+.hero-kicker {
+  color: #ffe2a6;
+  font-size: 24rpx;
+  font-weight: 700;
+}
+
+.hero-title {
+  margin-top: 12rpx;
+  font-size: 58rpx;
+  font-weight: 800;
+  letter-spacing: 0;
+}
+
+.hero-copy {
+  margin-top: 18rpx;
+  max-width: 620rpx;
+  color: #fff1d6;
+  font-size: 28rpx;
+  line-height: 1.6;
+}
+
+.mode-grid {
+  margin-top: 28rpx;
+}
+
+.mode-card {
+  margin-bottom: 24rpx;
+  padding: 30rpx;
+  background: #ffffff;
+  border: 2rpx solid #f0d7bd;
+  border-radius: 8px;
+  box-shadow: 0 12rpx 34rpx rgba(83, 36, 28, 0.08);
+}
+
+.mode-card.quick {
+  border-left: 10rpx solid #b5121b;
+}
+
+.mode-card.exam {
+  border-left: 10rpx solid #d59b2b;
+}
+
+.mode-name {
+  color: #7d1016;
+  font-size: 36rpx;
+  font-weight: 800;
+}
+
+.mode-meta {
+  margin: 12rpx 0 24rpx;
+  color: #735858;
+  font-size: 26rpx;
+  line-height: 1.5;
+}
+
+.panel {
+  margin-top: 24rpx;
+  padding: 28rpx;
+  background: #ffffff;
+  border: 2rpx solid #f0d7bd;
+  border-radius: 8px;
+}
+
+.status-line {
+  margin-bottom: 20rpx;
+  padding: 18rpx 20rpx;
+  border-radius: 8px;
+  font-size: 26rpx;
+}
+
+.status-line.ok {
+  color: #1e6b42;
+  background: #edf8ef;
+}
+
+.status-line.warn {
+  color: #8d1118;
+  background: #fff0ed;
+}
+
+.count-row {
+  display: flex;
+  gap: 18rpx;
+}
+
+.count-item {
+  flex: 1;
+  padding: 20rpx 8rpx;
+  text-align: center;
+  background: #fff6e8;
+  border-radius: 8px;
+}
+
+.count-number {
+  display: block;
+  color: #b5121b;
+  font-size: 38rpx;
+  font-weight: 800;
+}
+
+.count-label {
+  display: block;
+  margin-top: 6rpx;
+  color: #806666;
+  font-size: 24rpx;
+}
+
+.error-list {
+  margin-top: 18rpx;
+}
+
+.error-item {
+  margin-top: 10rpx;
+  color: #8d1118;
+  font-size: 24rpx;
+  line-height: 1.5;
+}
+
+.format-block {
+  margin-bottom: 18rpx;
+  padding: 20rpx;
+  background: #fff6e8;
+  border-radius: 8px;
+}
+
+.format-title {
+  display: block;
+  color: #7d1016;
+  font-size: 28rpx;
+  font-weight: 700;
+}
+
+.format-text {
+  display: block;
+  margin-top: 8rpx;
+  color: #6c5151;
+  font-size: 25rpx;
+  line-height: 1.5;
+}

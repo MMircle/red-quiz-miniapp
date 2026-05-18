@@ -1,0 +1,80 @@
+<view class="page-shell quiz-page">
+  <view wx:if="{{loadError}}" class="error-panel">
+    <view class="error-title">题库暂不可用</view>
+    <view wx:for="{{loadErrors}}" wx:key="*this" class="error-text">{{item}}</view>
+    <button class="primary-button" bindtap="backHome">返回首页</button>
+  </view>
+
+  <block wx:else>
+    <view class="quiz-header">
+      <view>
+        <view class="mode-title">{{modeConfig.title}}</view>
+        <view class="mode-tip">{{modeConfig.description}}</view>
+      </view>
+      <view class="progress-pill">{{currentIndex + 1}} / {{questions.length}}</view>
+    </view>
+
+    <view class="progress-track">
+      <view class="progress-fill" style="width: {{progressPercent}}%;"></view>
+    </view>
+
+    <view class="question-card">
+      <view class="question-meta">
+        <text class="type-badge">{{currentQuestion.typeLabel}}</text>
+        <text class="category-badge">{{currentQuestion.categoryLabel}}</text>
+      </view>
+      <view class="question-stem">{{currentQuestion.stem}}</view>
+
+      <view class="option-list">
+        <view
+          wx:for="{{viewOptions}}"
+          wx:key="key"
+          data-key="{{item.key}}"
+          bindtap="onOptionTap"
+          class="option-item {{item.selected ? 'selected' : ''}} {{item.correct ? 'correct' : ''}} {{item.wrong ? 'wrong' : ''}} {{currentAnswer.submitted ? 'locked' : ''}}"
+        >
+          <view class="option-key">{{item.key}}</view>
+          <view class="option-text">{{item.text}}</view>
+        </view>
+      </view>
+
+      <view wx:if="{{currentAnswer.submitted && modeConfig.instantFeedback}}" class="feedback-card {{currentAnswer.correct ? 'right' : 'wrong'}}">
+        <view class="feedback-title">{{currentAnswer.correct ? '回答正确' : '回答错误'}}</view>
+        <view class="feedback-line">你的答案：{{feedback.selectedText}}</view>
+        <view class="feedback-line">正确答案：{{feedback.answerText}}</view>
+        <view class="feedback-line">知识点：{{currentQuestion.knowledgePoint}}</view>
+        <view class="feedback-explain">{{currentQuestion.explanation}}</view>
+      </view>
+
+      <view wx:if="{{currentAnswer.submitted && !modeConfig.instantFeedback}}" class="locked-note">
+        已提交，本模式将在交卷后统一展示答案与解析。
+      </view>
+    </view>
+
+    <view class="action-row">
+      <button class="ghost-button nav-button" disabled="{{isFirst}}" bindtap="prevQuestion">上一题</button>
+      <button
+        wx:if="{{!currentAnswer.submitted}}"
+        class="primary-button submit-button"
+        disabled="{{!canSubmit}}"
+        bindtap="submitQuestion"
+      >
+        提交本题
+      </button>
+      <button
+        wx:elif="{{!isLast}}"
+        class="primary-button submit-button"
+        bindtap="nextQuestion"
+      >
+        下一题
+      </button>
+      <button
+        wx:else
+        class="primary-button submit-button"
+        bindtap="finishQuiz"
+      >
+        查看结果
+      </button>
+    </view>
+  </block>
+</view>

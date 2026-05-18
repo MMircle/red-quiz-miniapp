@@ -1,0 +1,57 @@
+<view class="page-shell home-page">
+  <view class="hero">
+    <view class="hero-kicker">红色知识学习平台</view>
+    <view class="hero-title">随手刷题</view>
+    <view class="hero-copy">党的基础知识、建党精神、“四史”学习与中大红色校史，利用碎片时间查缺补漏。</view>
+  </view>
+
+  <view class="mode-grid">
+    <view class="mode-card quick">
+      <view class="mode-name">十题快练</view>
+      <view class="mode-meta">10道单选 · 即时反馈 · 总成绩分析</view>
+      <button class="primary-button" bindtap="startQuick">开始快练</button>
+    </view>
+
+    <view class="mode-card exam">
+      <view class="mode-name">五十题精练</view>
+      <view class="mode-meta">40道单选 + 10道多选 · 交卷后统一分析</view>
+      <button class="primary-button" bindtap="startExam">开始精练</button>
+    </view>
+  </view>
+
+  <view class="panel">
+    <text class="section-title">题库状态</text>
+    <view wx:if="{{validation.ok}}" class="status-line ok">题库校验通过，可正常抽题。</view>
+    <view wx:else class="status-line warn">题库存在 {{validation.errors.length}} 个问题，请先修正。</view>
+    <view class="count-row">
+      <view class="count-item">
+        <text class="count-number">{{validation.counts.all}}</text>
+        <text class="count-label">总题数</text>
+      </view>
+      <view class="count-item">
+        <text class="count-number">{{validation.counts.single}}</text>
+        <text class="count-label">单选</text>
+      </view>
+      <view class="count-item">
+        <text class="count-number">{{validation.counts.multiple}}</text>
+        <text class="count-label">多选</text>
+      </view>
+    </view>
+    <view wx:if="{{!validation.ok}}" class="error-list">
+      <view wx:for="{{validation.errors}}" wx:key="*this" class="error-item">{{item}}</view>
+    </view>
+  </view>
+
+  <view class="panel">
+    <text class="section-title">题目格式</text>
+    <view class="format-block">
+      <text class="format-title">单选题</text>
+      <text class="format-text">type: single；answer 只放 1 个选项 key。</text>
+    </view>
+    <view class="format-block">
+      <text class="format-title">多选题</text>
+      <text class="format-text">type: multiple；answer 放 2 个及以上选项 key，评分要求完全一致。</text>
+    </view>
+    <view class="muted">完整示例和扩充说明见 README.md，题库文件位于 data/questionBank.js。</view>
+  </view>
+</view>
