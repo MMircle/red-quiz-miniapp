@@ -1,0 +1,2367 @@
+{
+  "source_file": "建党.yaml",
+  "document_type": "structured_questions",
+  "item_count": 70,
+  "items": [
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-001",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "伟大建党精神正式提出的场合是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "党史学习教育动员大会"
+        },
+        {
+          "key": "B",
+          "text": "庆祝中国共产党成立100周年大会"
+        },
+        {
+          "key": "C",
+          "text": "党的十九大"
+        },
+        {
+          "key": "D",
+          "text": "党的二十大"
+        }
+      ],
+      "answer": "B",
+      "explanation": "2021年7月1日，在庆祝中国共产党成立100周年大会上首次明确提出伟大建党精神。",
+      "knowledge_point": "伟大建党精神提出场合",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-002",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "伟大建党精神是中国共产党的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "思想根基"
+        },
+        {
+          "key": "B",
+          "text": "精神之源"
+        },
+        {
+          "key": "C",
+          "text": "行动准则"
+        },
+        {
+          "key": "D",
+          "text": "根本宗旨"
+        }
+      ],
+      "answer": "B",
+      "explanation": "伟大建党精神是中国共产党人精神谱系的源头活水。",
+      "knowledge_point": "伟大建党精神精神之源定位",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-003",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "伟大建党精神形成于？",
+      "options": [
+        {
+          "key": "A",
+          "text": "新中国成立时期"
+        },
+        {
+          "key": "B",
+          "text": "中国共产党成立之初"
+        },
+        {
+          "key": "C",
+          "text": "改革开放时期"
+        },
+        {
+          "key": "D",
+          "text": "新时代"
+        }
+      ],
+      "answer": "B",
+      "explanation": "伟大建党精神由百年前中国共产党先驱们在建党实践中铸就形成。",
+      "knowledge_point": "伟大建党精神形成时期",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-004",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "伟大建党精神提出的具体年份是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "2020年"
+        },
+        {
+          "key": "B",
+          "text": "2021年"
+        },
+        {
+          "key": "C",
+          "text": "2022年"
+        },
+        {
+          "key": "D",
+          "text": "2023年"
+        }
+      ],
+      "answer": "B",
+      "explanation": "2021年七一讲话正式提出伟大建党精神。",
+      "knowledge_point": "伟大建党精神提出年份",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-005",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "党的二十大大会主题明确要求弘扬？",
+      "options": [
+        {
+          "key": "A",
+          "text": "红船精神"
+        },
+        {
+          "key": "B",
+          "text": "伟大建党精神"
+        },
+        {
+          "key": "C",
+          "text": "脱贫攻坚精神"
+        },
+        {
+          "key": "D",
+          "text": "抗疫精神"
+        }
+      ],
+      "answer": "B",
+      "explanation": "弘扬伟大建党精神写入党的二十大大会主题。",
+      "knowledge_point": "党的二十大主题",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-006",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "中国共产党人精神谱系的根基与源头是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "长征精神"
+        },
+        {
+          "key": "B",
+          "text": "伟大建党精神"
+        },
+        {
+          "key": "C",
+          "text": "延安精神"
+        },
+        {
+          "key": "D",
+          "text": "两弹一星精神"
+        }
+      ],
+      "answer": "B",
+      "explanation": "所有革命精神、时代精神均源自伟大建党精神。",
+      "knowledge_point": "中国共产党人精神谱系源头",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-007",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "铸就伟大建党精神的主体是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "新时代党员干部"
+        },
+        {
+          "key": "B",
+          "text": "中国共产党的先驱们"
+        },
+        {
+          "key": "C",
+          "text": "革命战争年代英雄"
+        },
+        {
+          "key": "D",
+          "text": "各行各业模范人物"
+        }
+      ],
+      "answer": "B",
+      "explanation": "百年前建党先驱们在救国救民实践中铸就伟大建党精神。",
+      "knowledge_point": "伟大建党精神铸就主体",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-008",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "下列不属于伟大建党精神鲜明特点的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "历史穿透力"
+        },
+        {
+          "key": "B",
+          "text": "精神感召力"
+        },
+        {
+          "key": "C",
+          "text": "实践引领力"
+        },
+        {
+          "key": "D",
+          "text": "个人功利性"
+        }
+      ],
+      "answer": "D",
+      "explanation": "伟大建党精神彰显大公无私、为民奉献，摒弃功利主义。",
+      "knowledge_point": "伟大建党精神鲜明特点辨析",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-009",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "伟大建党精神首要本质属性是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "革命精神"
+        },
+        {
+          "key": "B",
+          "text": "享乐精神"
+        },
+        {
+          "key": "C",
+          "text": "利己精神"
+        },
+        {
+          "key": "D",
+          "text": "保守精神"
+        }
+      ],
+      "answer": "A",
+      "explanation": "伟大建党精神源自革命实践，核心是革命奋斗精神。",
+      "knowledge_point": "伟大建党精神本质属性",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-010",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "系统总结伟大建党精神，体现我党对自身精神建设达到？",
+      "options": [
+        {
+          "key": "A",
+          "text": "表面认知"
+        },
+        {
+          "key": "B",
+          "text": "理论升华高度"
+        },
+        {
+          "key": "C",
+          "text": "初步了解"
+        },
+        {
+          "key": "D",
+          "text": "简单概括"
+        }
+      ],
+      "answer": "B",
+      "explanation": "正式凝练概括建党精神，实现党的精神建设理论高度升华。",
+      "knowledge_point": "党的精神建设理论升华",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-011",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "“坚持真理、坚守理想”中的真理特指？",
+      "options": [
+        {
+          "key": "A",
+          "text": "封建传统思想"
+        },
+        {
+          "key": "B",
+          "text": "马克思主义科学真理"
+        },
+        {
+          "key": "C",
+          "text": "西方错误思潮"
+        },
+        {
+          "key": "D",
+          "text": "主观个人想法"
+        }
+      ],
+      "answer": "B",
+      "explanation": "我党始终坚持马克思主义这一科学指导真理。",
+      "knowledge_point": "马克思主义科学真理",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-012",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "“坚持真理、坚守理想”中的理想是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "个人暴富理想"
+        },
+        {
+          "key": "B",
+          "text": "共产主义远大理想和中国特色社会主义共同理想"
+        },
+        {
+          "key": "C",
+          "text": "贪图安逸理想"
+        },
+        {
+          "key": "D",
+          "text": "追逐名利理想"
+        }
+      ],
+      "answer": "B",
+      "explanation": "共产党人坚定两大理想不动摇。",
+      "knowledge_point": "共产主义远大理想和共同理想",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-013",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "伟大建党精神完整内涵排序第二项是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不怕牺牲、英勇斗争"
+        },
+        {
+          "key": "B",
+          "text": "践行初心、担当使命"
+        },
+        {
+          "key": "C",
+          "text": "对党忠诚、不负人民"
+        },
+        {
+          "key": "D",
+          "text": "坚守信念、矢志不渝"
+        }
+      ],
+      "answer": "B",
+      "explanation": "完整内涵：坚持真理、坚守理想；践行初心、担当使命；不怕牺牲、英勇斗争；对党忠诚、不负人民。",
+      "knowledge_point": "伟大建党精神完整内涵第二项",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-014",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "中国共产党人的初心和使命是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "为中国人民谋幸福，为中华民族谋复兴"
+        },
+        {
+          "key": "B",
+          "text": "为自己谋前程"
+        },
+        {
+          "key": "C",
+          "text": "为家族谋利益"
+        },
+        {
+          "key": "D",
+          "text": "为少数人谋福利"
+        }
+      ],
+      "answer": "A",
+      "explanation": "初心使命是全党一切工作的根本出发点。",
+      "knowledge_point": "中国共产党人初心使命",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-015",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "伟大建党精神完整内涵第三项是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "践行初心、担当使命"
+        },
+        {
+          "key": "B",
+          "text": "不怕牺牲、英勇斗争"
+        },
+        {
+          "key": "C",
+          "text": "对党忠诚、不负人民"
+        },
+        {
+          "key": "D",
+          "text": "艰苦奋斗、自强不息"
+        }
+      ],
+      "answer": "B",
+      "explanation": "牢记内涵顺序，第三点为不怕牺牲、英勇斗争。",
+      "knowledge_point": "伟大建党精神完整内涵第三项",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-016",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "“不怕牺牲、英勇斗争”集中体现共产党人？",
+      "options": [
+        {
+          "key": "A",
+          "text": "贪图享乐心态"
+        },
+        {
+          "key": "B",
+          "text": "无私无畏奉献品格"
+        },
+        {
+          "key": "C",
+          "text": "畏难退缩思想"
+        },
+        {
+          "key": "D",
+          "text": "自私自利作风"
+        }
+      ],
+      "answer": "B",
+      "explanation": "面对艰难险阻敢于牺牲、敢于斗争，彰显无私奉献。",
+      "knowledge_point": "无私无畏奉献品格",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-017",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "伟大建党精神完整内涵最后一项是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不怕牺牲、英勇斗争"
+        },
+        {
+          "key": "B",
+          "text": "对党忠诚、不负人民"
+        },
+        {
+          "key": "C",
+          "text": "求真务实、真抓实干"
+        },
+        {
+          "key": "D",
+          "text": "锐意进取、开拓创新"
+        }
+      ],
+      "answer": "B",
+      "explanation": "第四项核心内容为对党忠诚、不负人民。",
+      "knowledge_point": "伟大建党精神完整内涵第四项",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-018",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "“对党忠诚、不负人民”彰显共产党人？",
+      "options": [
+        {
+          "key": "A",
+          "text": "虚伪处世态度"
+        },
+        {
+          "key": "B",
+          "text": "绝对忠诚政治品格与人民至上立场"
+        },
+        {
+          "key": "C",
+          "text": "官僚主义作风"
+        },
+        {
+          "key": "D",
+          "text": "两面派行事方式"
+        }
+      ],
+      "answer": "B",
+      "explanation": "忠于党、忠于人民是党员最基本政治要求。",
+      "knowledge_point": "忠诚为民政治品格",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-019",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "伟大建党精神四层内涵整体关系是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "彼此割裂互不相关"
+        },
+        {
+          "key": "B",
+          "text": "逻辑严密、内在统一有机整体"
+        },
+        {
+          "key": "C",
+          "text": "相互对立存在矛盾"
+        },
+        {
+          "key": "D",
+          "text": "主次分离互不联系"
+        }
+      ],
+      "answer": "B",
+      "explanation": "四层内涵相辅相成、融为一体，构成完整精神体系。",
+      "knowledge_point": "伟大建党精神四层内涵关系",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-020",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "下列不属于坚持真理坚守理想要求的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "信仰马克思主义"
+        },
+        {
+          "key": "B",
+          "text": "坚定远大理想"
+        },
+        {
+          "key": "C",
+          "text": "只为个人利益奋斗"
+        },
+        {
+          "key": "D",
+          "text": "筑牢信仰之基"
+        }
+      ],
+      "answer": "C",
+      "explanation": "坚守理想是为公为民，绝非为个人私利。",
+      "knowledge_point": "坚持真理坚守理想要求",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-021",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "不属于践行初心担当使命范畴的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "服务人民群众"
+        },
+        {
+          "key": "B",
+          "text": "扛起民族复兴重任"
+        },
+        {
+          "key": "C",
+          "text": "只顾个人前途发展"
+        },
+        {
+          "key": "D",
+          "text": "履职尽责主动作为"
+        }
+      ],
+      "answer": "C",
+      "explanation": "担当使命立足大局、服务群众，摒弃个人本位思想。",
+      "knowledge_point": "践行初心担当使命要求",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-022",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "不符合不怕牺牲英勇斗争精神的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "迎难而上直面风险"
+        },
+        {
+          "key": "B",
+          "text": "遇事退缩畏惧困难"
+        },
+        {
+          "key": "C",
+          "text": "顽强拼搏攻坚克难"
+        },
+        {
+          "key": "D",
+          "text": "舍己为公挺身而出"
+        }
+      ],
+      "answer": "B",
+      "explanation": "畏难退缩与英勇斗争精神完全相悖。",
+      "knowledge_point": "英勇斗争精神辨析",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-023",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "违背对党忠诚不负人民要求的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "严守党纪忠于组织"
+        },
+        {
+          "key": "B",
+          "text": "全心全意为民服务"
+        },
+        {
+          "key": "C",
+          "text": "以权谋私谋取私利"
+        },
+        {
+          "key": "D",
+          "text": "站稳人民根本立场"
+        }
+      ],
+      "answer": "C",
+      "explanation": "以权谋私严重背离忠诚为民根本要求。",
+      "knowledge_point": "忠诚为民要求辨析",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-024",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "坚持真理、坚守理想侧重体现共产党人？",
+      "options": [
+        {
+          "key": "A",
+          "text": "理想信念与价值追求"
+        },
+        {
+          "key": "B",
+          "text": "时代责任与历史使命"
+        },
+        {
+          "key": "C",
+          "text": "斗争意志与顽强作风"
+        },
+        {
+          "key": "D",
+          "text": "政治立场与为民情怀"
+        }
+      ],
+      "answer": "A",
+      "explanation": "此句重在筑牢思想信仰根基。",
+      "knowledge_point": "理想信念与价值追求",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-025",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "践行初心、担当使命侧重体现共产党人？",
+      "options": [
+        {
+          "key": "A",
+          "text": "理想信念与价值追求"
+        },
+        {
+          "key": "B",
+          "text": "时代责任与历史使命"
+        },
+        {
+          "key": "C",
+          "text": "斗争意志与顽强作风"
+        },
+        {
+          "key": "D",
+          "text": "政治立场与为民情怀"
+        }
+      ],
+      "answer": "B",
+      "explanation": "立足使命担当，扛起时代重任。",
+      "knowledge_point": "时代责任与历史使命",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-026",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "不怕牺牲、英勇斗争侧重体现共产党人？",
+      "options": [
+        {
+          "key": "A",
+          "text": "理想信念与价值追求"
+        },
+        {
+          "key": "B",
+          "text": "时代责任与历史使命"
+        },
+        {
+          "key": "C",
+          "text": "斗争意志与顽强作风"
+        },
+        {
+          "key": "D",
+          "text": "政治立场与为民情怀"
+        }
+      ],
+      "answer": "C",
+      "explanation": "彰显敢于斗争、顽强拼搏的精神作风。",
+      "knowledge_point": "斗争意志与顽强作风",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-027",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "对党忠诚、不负人民侧重体现共产党人？",
+      "options": [
+        {
+          "key": "A",
+          "text": "理想信念与价值追求"
+        },
+        {
+          "key": "B",
+          "text": "时代责任与历史使命"
+        },
+        {
+          "key": "C",
+          "text": "斗争意志与顽强作风"
+        },
+        {
+          "key": "D",
+          "text": "政治立场与为民情怀"
+        }
+      ],
+      "answer": "D",
+      "explanation": "明确政治忠诚，坚守人民至上立场。",
+      "knowledge_point": "政治立场与为民情怀",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-028",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "伟大建党精神思想根基与核心要义是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持真理、坚守理想"
+        },
+        {
+          "key": "B",
+          "text": "践行初心、担当使命"
+        },
+        {
+          "key": "C",
+          "text": "不怕牺牲、英勇斗争"
+        },
+        {
+          "key": "D",
+          "text": "对党忠诚、不负人民"
+        }
+      ],
+      "answer": "A",
+      "explanation": "坚定信仰理想是一切精神行动的思想根基。",
+      "knowledge_point": "思想根基与核心要义",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-029",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "伟大建党精神落地实践基本要求是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持真理、坚守理想"
+        },
+        {
+          "key": "B",
+          "text": "践行初心、担当使命"
+        },
+        {
+          "key": "C",
+          "text": "不怕牺牲、英勇斗争"
+        },
+        {
+          "key": "D",
+          "text": "对党忠诚、不负人民"
+        }
+      ],
+      "answer": "B",
+      "explanation": "立足初心使命，把精神落实到实际行动中。",
+      "knowledge_point": "伟大建党精神实践落实要求",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-030",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "伟大建党精神最鲜明精神特质是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持真理、坚守理想"
+        },
+        {
+          "key": "B",
+          "text": "践行初心、担当使命"
+        },
+        {
+          "key": "C",
+          "text": "不怕牺牲、英勇斗争"
+        },
+        {
+          "key": "D",
+          "text": "对党忠诚、不负人民"
+        }
+      ],
+      "answer": "C",
+      "explanation": "敢于牺牲、敢于斗争是我党最鲜明精神特质。",
+      "knowledge_point": "伟大建党精神最鲜明特质",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-031",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "伟大建党精神对于党的长远发展主要作用是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "提供不竭精神动力与精神支撑"
+        },
+        {
+          "key": "B",
+          "text": "束缚思想限制发展"
+        },
+        {
+          "key": "C",
+          "text": "仅有口号无实际作用"
+        },
+        {
+          "key": "D",
+          "text": "增加工作负担压力"
+        }
+      ],
+      "answer": "A",
+      "explanation": "建党精神为党长期执政、永续发展提供强大精神力量。",
+      "knowledge_point": "伟大建党精神长远发展作用",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-032",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "新时代弘扬伟大建党精神最主要作用是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "凝聚民心士气，引领事业发展"
+        },
+        {
+          "key": "B",
+          "text": "阻碍社会进步"
+        },
+        {
+          "key": "C",
+          "text": "脱离现实毫无意义"
+        },
+        {
+          "key": "D",
+          "text": "加重基层工作压力"
+        }
+      ],
+      "answer": "A",
+      "explanation": "凝聚全党全社会力量，助力新时代各项事业发展。",
+      "knowledge_point": "新时代弘扬伟大建党精神作用",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-033",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "不属于伟大建党精神历史地位的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "革命时期精神支柱"
+        },
+        {
+          "key": "B",
+          "text": "建设时期精神动力"
+        },
+        {
+          "key": "C",
+          "text": "改革时期精神引领"
+        },
+        {
+          "key": "D",
+          "text": "个人主义思想源头"
+        }
+      ],
+      "answer": "D",
+      "explanation": "建党精神是集体主义、为民奉献精神，绝非个人主义。",
+      "knowledge_point": "伟大建党精神历史地位辨析",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-034",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "红船精神与伟大建党精神关系正确的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "完全对立毫无关联"
+        },
+        {
+          "key": "B",
+          "text": "红船精神是伟大建党精神生动具体体现"
+        },
+        {
+          "key": "C",
+          "text": "二者互不包含"
+        },
+        {
+          "key": "D",
+          "text": "建党精神隶属于红船精神"
+        }
+      ],
+      "answer": "B",
+      "explanation": "红船精神是建党精神在建党初期的集中体现。",
+      "knowledge_point": "红船精神与伟大建党精神关系",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-035",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "伟大建党精神与精神谱系关系表述正确的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "建党精神为源头，各类精神是延伸发展"
+        },
+        {
+          "key": "B",
+          "text": "各类精神为源头，建党精神是分支"
+        },
+        {
+          "key": "C",
+          "text": "二者互不隶属"
+        },
+        {
+          "key": "D",
+          "text": "二者相互排斥"
+        }
+      ],
+      "answer": "A",
+      "explanation": "建党精神是总源头，后续精神谱系不断丰富拓展。",
+      "knowledge_point": "伟大建党精神与精神谱系关系",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-036",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "新时代弘扬伟大建党精神首要坚持？",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持党的全面领导"
+        },
+        {
+          "key": "B",
+          "text": "坚守人民主体地位"
+        },
+        {
+          "key": "C",
+          "text": "坚持实事求是思想路线"
+        },
+        {
+          "key": "D",
+          "text": "以上全是"
+        }
+      ],
+      "answer": "D",
+      "explanation": "弘扬建党精神必须统筹坚持党的领导、人民立场、实事求是。",
+      "knowledge_point": "新时代弘扬伟大建党精神原则",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-037",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "不属于伟大建党精神时代价值的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "助力民族伟大复兴"
+        },
+        {
+          "key": "B",
+          "text": "引领新时代党的建设"
+        },
+        {
+          "key": "C",
+          "text": "助长个人享乐主义"
+        },
+        {
+          "key": "D",
+          "text": "凝聚全社会奋进力量"
+        }
+      ],
+      "answer": "C",
+      "explanation": "建党精神抵制享乐主义、利己主义。",
+      "knowledge_point": "伟大建党精神时代价值辨析",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-038",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "不属于弘扬伟大建党精神实践做法的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚定马克思主义信仰"
+        },
+        {
+          "key": "B",
+          "text": "坚持以人民为中心"
+        },
+        {
+          "key": "C",
+          "text": "主动投身伟大斗争"
+        },
+        {
+          "key": "D",
+          "text": "一切只为谋取私利"
+        }
+      ],
+      "answer": "D",
+      "explanation": "谋私利严重违背建党精神内涵要求。",
+      "knowledge_point": "弘扬伟大建党精神实践做法",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-039",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "伟大建党精神最重要理论价值是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "丰富发展马克思主义建党学说"
+        },
+        {
+          "key": "B",
+          "text": "仅做历史回顾无理论价值"
+        },
+        {
+          "key": "C",
+          "text": "脱离科学理论体系"
+        },
+        {
+          "key": "D",
+          "text": "否定原有党建理论"
+        }
+      ],
+      "answer": "A",
+      "explanation": "进一步完善、丰富新时代马克思主义党建理论。",
+      "knowledge_point": "伟大建党精神理论价值",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-040",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "伟大建党精神最突出实践价值是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "为新时代全面从严治党提供行动指南"
+        },
+        {
+          "key": "B",
+          "text": "脱离实际无法落地"
+        },
+        {
+          "key": "C",
+          "text": "只重理论不重实践"
+        },
+        {
+          "key": "D",
+          "text": "对党建工作无指导意义"
+        }
+      ],
+      "answer": "A",
+      "explanation": "为管党治党、党员修身履职提供实践遵循。",
+      "knowledge_point": "伟大建党精神实践价值",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-041",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "“不负人民”直接对应党的根本宗旨是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "全心全意为人民服务"
+        },
+        {
+          "key": "B",
+          "text": "为少数群体服务"
+        },
+        {
+          "key": "C",
+          "text": "为特权阶层服务"
+        },
+        {
+          "key": "D",
+          "text": "只为党员自身服务"
+        }
+      ],
+      "answer": "A",
+      "explanation": "全心全意为人民服务是我党一成不变根本宗旨。",
+      "knowledge_point": "党的根本宗旨",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-042",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "“对党忠诚”要求全体党员做到？",
+      "options": [
+        {
+          "key": "A",
+          "text": "表里如一、绝对忠诚"
+        },
+        {
+          "key": "B",
+          "text": "阳奉阴违口是心非"
+        },
+        {
+          "key": "C",
+          "text": "人前一套人后一套"
+        },
+        {
+          "key": "D",
+          "text": "利益面前背叛组织"
+        }
+      ],
+      "answer": "A",
+      "explanation": "对党忠诚必须纯粹、绝对、言行一致。",
+      "knowledge_point": "对党忠诚要求",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-043",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "“不怕牺牲”彰显共产党人崇高境界是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "舍生取义、无私忘我"
+        },
+        {
+          "key": "B",
+          "text": "贪生怕死明哲保身"
+        },
+        {
+          "key": "C",
+          "text": "趋利避害自私自利"
+        },
+        {
+          "key": "D",
+          "text": "安逸享乐不思进取"
+        }
+      ],
+      "answer": "A",
+      "explanation": "为党和人民事业甘愿奉献一切，不计个人得失。",
+      "knowledge_point": "不怕牺牲崇高境界",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-044",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "党员践行初心必须时刻牢记？",
+      "options": [
+        {
+          "key": "A",
+          "text": "为人民谋幸福、为民族谋复兴"
+        },
+        {
+          "key": "B",
+          "text": "追求高官厚禄"
+        },
+        {
+          "key": "C",
+          "text": "积攒私人财富"
+        },
+        {
+          "key": "D",
+          "text": "谋求安逸生活"
+        }
+      ],
+      "answer": "A",
+      "explanation": "牢记初心使命是党员立身履职根本。",
+      "knowledge_point": "党员初心使命",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-045",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "坚守理想要求党员牢固树立？",
+      "options": [
+        {
+          "key": "A",
+          "text": "远大理想与共同理想"
+        },
+        {
+          "key": "B",
+          "text": "金钱至上思想"
+        },
+        {
+          "key": "C",
+          "text": "自由主义思想"
+        },
+        {
+          "key": "D",
+          "text": "享乐主义思想"
+        }
+      ],
+      "answer": "A",
+      "explanation": "坚定理想信念，筑牢思想精神支柱。",
+      "knowledge_point": "坚守理想要求",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-046",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "坚持真理要求党员始终信奉？",
+      "options": [
+        {
+          "key": "A",
+          "text": "马克思主义科学理论"
+        },
+        {
+          "key": "B",
+          "text": "封建迷信思想"
+        },
+        {
+          "key": "C",
+          "text": "外来错误思潮"
+        },
+        {
+          "key": "D",
+          "text": "主观臆断思想"
+        }
+      ],
+      "answer": "A",
+      "explanation": "始终以马克思主义作为思想指导与行动真理。",
+      "knowledge_point": "坚持真理要求",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-047",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "担当使命要求党员主动扛起？",
+      "options": [
+        {
+          "key": "A",
+          "text": "民族复兴时代重任"
+        },
+        {
+          "key": "B",
+          "text": "个人生活琐事"
+        },
+        {
+          "key": "C",
+          "text": "小团体私利任务"
+        },
+        {
+          "key": "D",
+          "text": "局部狭隘利益"
+        }
+      ],
+      "answer": "A",
+      "explanation": "胸怀大局，主动扛起强国复兴历史重任。",
+      "knowledge_point": "担当使命要求",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-048",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "面对风险挑战，英勇斗争要求党员做到？",
+      "options": [
+        {
+          "key": "A",
+          "text": "敢于斗争、善于斗争"
+        },
+        {
+          "key": "B",
+          "text": "妥协退让消极避事"
+        },
+        {
+          "key": "C",
+          "text": "麻木冷漠置之不理"
+        },
+        {
+          "key": "D",
+          "text": "畏惧困难原地止步"
+        }
+      ],
+      "answer": "A",
+      "explanation": "新时代必须增强斗争精神，提升斗争本领。",
+      "knowledge_point": "斗争精神要求",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-049",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "不属于伟大建党精神理论特征的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "科学性"
+        },
+        {
+          "key": "B",
+          "text": "人民性"
+        },
+        {
+          "key": "C",
+          "text": "实践性"
+        },
+        {
+          "key": "D",
+          "text": "狭隘排他性"
+        }
+      ],
+      "answer": "D",
+      "explanation": "建党精神开放包容、与时俱进，无狭隘排他属性。",
+      "knowledge_point": "伟大建党精神理论特征辨析",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "单选",
+      "id": "founding-spirit-050",
+      "type": "single",
+      "category": "foundingSpirit",
+      "difficulty": "easy",
+      "stem": "不属于新时代践行伟大建党精神路径的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "强化理论学习坚定信念"
+        },
+        {
+          "key": "B",
+          "text": "扎根基层服务群众"
+        },
+        {
+          "key": "C",
+          "text": "主动担当干事创业"
+        },
+        {
+          "key": "D",
+          "text": "脱离群众贪图享受"
+        }
+      ],
+      "answer": "D",
+      "explanation": "脱离群众、贪图享乐完全背离建党精神践行要求。",
+      "knowledge_point": "新时代践行伟大建党精神路径",
+      "tags": [
+        "建党精神"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "founding-spirit-multi-001",
+      "type": "multiple",
+      "category": "foundingSpirit",
+      "difficulty": "normal",
+      "stem": "伟大建党精神完整科学内涵包含？",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持真理、坚守理想"
+        },
+        {
+          "key": "B",
+          "text": "践行初心、担当使命"
+        },
+        {
+          "key": "C",
+          "text": "不怕牺牲、英勇斗争"
+        },
+        {
+          "key": "D",
+          "text": "对党忠诚、不负人民"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "以上四项为伟大建党精神官方完整表述。",
+      "knowledge_point": "伟大建党精神完整科学内涵",
+      "tags": [
+        "建党精神",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "founding-spirit-multi-002",
+      "type": "multiple",
+      "category": "foundingSpirit",
+      "difficulty": "normal",
+      "stem": "伟大建党精神四层内涵内在关系特点有？",
+      "options": [
+        {
+          "key": "A",
+          "text": "相互联系"
+        },
+        {
+          "key": "B",
+          "text": "相互贯通"
+        },
+        {
+          "key": "C",
+          "text": "逻辑严密"
+        },
+        {
+          "key": "D",
+          "text": "内在统一"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "四层内涵浑然一体，相辅相成不可分割。",
+      "knowledge_point": "伟大建党精神四层内涵关系特点",
+      "tags": [
+        "建党精神",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "founding-spirit-multi-003",
+      "type": "multiple",
+      "category": "foundingSpirit",
+      "difficulty": "normal",
+      "stem": "坚持真理、坚守理想包含具体要求有？",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚信马克思主义科学真理"
+        },
+        {
+          "key": "B",
+          "text": "坚守共产主义远大理想"
+        },
+        {
+          "key": "C",
+          "text": "坚定中国特色社会主义共同理想"
+        },
+        {
+          "key": "D",
+          "text": "摒弃错误思想观念"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "从理论信仰到理想信念全方位筑牢思想根基。",
+      "knowledge_point": "坚持真理坚守理想具体要求",
+      "tags": [
+        "建党精神",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "founding-spirit-multi-004",
+      "type": "multiple",
+      "category": "foundingSpirit",
+      "difficulty": "normal",
+      "stem": "践行初心、担当使命基本内容包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "始终为中国人民谋幸福"
+        },
+        {
+          "key": "B",
+          "text": "始终为中华民族谋复兴"
+        },
+        {
+          "key": "C",
+          "text": "主动扛起时代赋予职责使命"
+        },
+        {
+          "key": "D",
+          "text": "立足岗位履职尽责"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "立足初心定位，主动担当时代与岗位职责。",
+      "knowledge_point": "践行初心担当使命基本内容",
+      "tags": [
+        "建党精神",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "founding-spirit-multi-005",
+      "type": "multiple",
+      "category": "foundingSpirit",
+      "difficulty": "normal",
+      "stem": "不怕牺牲、英勇斗争精神内涵包含？",
+      "options": [
+        {
+          "key": "A",
+          "text": "永葆顽强拼搏意志"
+        },
+        {
+          "key": "B",
+          "text": "直面风险敢于迎难而上"
+        },
+        {
+          "key": "C",
+          "text": "为事业甘于奉献牺牲"
+        },
+        {
+          "key": "D",
+          "text": "锤炼攻坚克难优良作风"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "涵盖意志、作风、行动、境界多重要求。",
+      "knowledge_point": "英勇斗争精神内涵",
+      "tags": [
+        "建党精神",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "founding-spirit-multi-006",
+      "type": "multiple",
+      "category": "foundingSpirit",
+      "difficulty": "normal",
+      "stem": "对党忠诚、不负人民具体体现为？",
+      "options": [
+        {
+          "key": "A",
+          "text": "绝对忠诚于党组织"
+        },
+        {
+          "key": "B",
+          "text": "严守党的纪律规矩"
+        },
+        {
+          "key": "C",
+          "text": "始终站稳人民立场"
+        },
+        {
+          "key": "D",
+          "text": "全心全力服务群众"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "对内忠诚于党，对外全心服务人民群众。",
+      "knowledge_point": "对党忠诚不负人民具体体现",
+      "tags": [
+        "建党精神",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "founding-spirit-multi-007",
+      "type": "multiple",
+      "category": "foundingSpirit",
+      "difficulty": "normal",
+      "stem": "伟大建党精神具备突出鲜明特质有？",
+      "options": [
+        {
+          "key": "A",
+          "text": "强大历史穿透力"
+        },
+        {
+          "key": "B",
+          "text": "深厚精神感召力"
+        },
+        {
+          "key": "C",
+          "text": "科学理论引领力"
+        },
+        {
+          "key": "D",
+          "text": "强劲实践指导力"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "跨越时代、凝聚人心、指引理论、指导实践。",
+      "knowledge_point": "伟大建党精神突出鲜明特质",
+      "tags": [
+        "建党精神",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "founding-spirit-multi-008",
+      "type": "multiple",
+      "category": "foundingSpirit",
+      "difficulty": "normal",
+      "stem": "伟大建党精神具备的核心理论属性包含？",
+      "options": [
+        {
+          "key": "A",
+          "text": "科学性"
+        },
+        {
+          "key": "B",
+          "text": "人民性"
+        },
+        {
+          "key": "C",
+          "text": "实践性"
+        },
+        {
+          "key": "D",
+          "text": "先进性"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "立足科学理论、依靠人民、扎根实践、引领先进方向。",
+      "knowledge_point": "伟大建党精神核心理论属性",
+      "tags": [
+        "建党精神",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "founding-spirit-multi-009",
+      "type": "multiple",
+      "category": "foundingSpirit",
+      "difficulty": "normal",
+      "stem": "伟大建党精神对应四大精神品格分别是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "求真求实精神"
+        },
+        {
+          "key": "B",
+          "text": "使命践行精神"
+        },
+        {
+          "key": "C",
+          "text": "顽强斗争精神"
+        },
+        {
+          "key": "D",
+          "text": "忠诚为民精神"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "四层内涵对应四种核心精神品格。",
+      "knowledge_point": "伟大建党精神四大精神品格",
+      "tags": [
+        "建党精神",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "founding-spirit-multi-010",
+      "type": "multiple",
+      "category": "foundingSpirit",
+      "difficulty": "normal",
+      "stem": "伟大建党精神根本本质属性包含？",
+      "options": [
+        {
+          "key": "A",
+          "text": "革命性"
+        },
+        {
+          "key": "B",
+          "text": "先进性"
+        },
+        {
+          "key": "C",
+          "text": "人民性"
+        },
+        {
+          "key": "D",
+          "text": "实践性"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "源自革命、引领先进、依靠人民、扎根实践。",
+      "knowledge_point": "伟大建党精神根本本质属性",
+      "tags": [
+        "建党精神",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "founding-spirit-multi-011",
+      "type": "multiple",
+      "category": "foundingSpirit",
+      "difficulty": "normal",
+      "stem": "伟大建党精神重大历史意义体现在？",
+      "options": [
+        {
+          "key": "A",
+          "text": "是全党一切精神的源头"
+        },
+        {
+          "key": "B",
+          "text": "贯穿革命建设改革全过程"
+        },
+        {
+          "key": "C",
+          "text": "凝聚百年奋斗精神力量"
+        },
+        {
+          "key": "D",
+          "text": "筑牢百年大党精神根基"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "贯穿百年党史，是我党百年奋进精神根基。",
+      "knowledge_point": "伟大建党精神重大历史意义",
+      "tags": [
+        "建党精神",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "founding-spirit-multi-012",
+      "type": "multiple",
+      "category": "foundingSpirit",
+      "difficulty": "normal",
+      "stem": "新时代伟大建党精神重要时代价值在于？",
+      "options": [
+        {
+          "key": "A",
+          "text": "赋能民族复兴伟大事业"
+        },
+        {
+          "key": "B",
+          "text": "引领新时代党的建设"
+        },
+        {
+          "key": "C",
+          "text": "凝聚全社会奋进合力"
+        },
+        {
+          "key": "D",
+          "text": "丰富完善新时代党建思想"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "兼顾国家发展、党内建设、社会凝聚、理论完善。",
+      "knowledge_point": "伟大建党精神时代价值",
+      "tags": [
+        "建党精神",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "founding-spirit-multi-013",
+      "type": "multiple",
+      "category": "foundingSpirit",
+      "difficulty": "normal",
+      "stem": "新时代大力弘扬伟大建党精神实践要求有？",
+      "options": [
+        {
+          "key": "A",
+          "text": "牢牢坚持马克思主义指导"
+        },
+        {
+          "key": "B",
+          "text": "坚定不移站稳人民立场"
+        },
+        {
+          "key": "C",
+          "text": "主动投身新时代伟大斗争"
+        },
+        {
+          "key": "D",
+          "text": "严守规矩做到绝对忠诚"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "从思想、立场、行动、政治全方位落实。",
+      "knowledge_point": "新时代弘扬伟大建党精神实践要求",
+      "tags": [
+        "建党精神",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "founding-spirit-multi-014",
+      "type": "multiple",
+      "category": "foundingSpirit",
+      "difficulty": "normal",
+      "stem": "伟大建党精神与红船精神相通之处在于？",
+      "options": [
+        {
+          "key": "A",
+          "text": "均蕴含敢为人先首创精神"
+        },
+        {
+          "key": "B",
+          "text": "均饱含百折不挠奋斗精神"
+        },
+        {
+          "key": "C",
+          "text": "均坚守立党为公为民情怀"
+        },
+        {
+          "key": "D",
+          "text": "同为建党时期核心精神"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "二者精神内核高度契合，一脉相承。",
+      "knowledge_point": "红船精神与伟大建党精神相通之处",
+      "tags": [
+        "建党精神",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "founding-spirit-multi-015",
+      "type": "multiple",
+      "category": "foundingSpirit",
+      "difficulty": "normal",
+      "stem": "伟大建党精神与共产党人精神谱系关系正确的有？",
+      "options": [
+        {
+          "key": "A",
+          "text": "建党精神为总源头"
+        },
+        {
+          "key": "B",
+          "text": "各类精神均是其传承发展"
+        },
+        {
+          "key": "C",
+          "text": "共同组成党的精神标识"
+        },
+        {
+          "key": "D",
+          "text": "共同汇聚复兴精神伟力"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "一脉相承、同源共生、合力奋进。",
+      "knowledge_point": "伟大建党精神与精神谱系关系",
+      "tags": [
+        "建党精神",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "founding-spirit-multi-016",
+      "type": "multiple",
+      "category": "foundingSpirit",
+      "difficulty": "normal",
+      "stem": "党的二十大主题中与弘扬建党精神并列内容包含？",
+      "options": [
+        {
+          "key": "A",
+          "text": "自信自强"
+        },
+        {
+          "key": "B",
+          "text": "守正创新"
+        },
+        {
+          "key": "C",
+          "text": "踔厉奋发"
+        },
+        {
+          "key": "D",
+          "text": "勇毅前行"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "二十大主题固定搭配表述。",
+      "knowledge_point": "党的二十大主题相关内容",
+      "tags": [
+        "建党精神",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "founding-spirit-multi-017",
+      "type": "multiple",
+      "category": "foundingSpirit",
+      "difficulty": "normal",
+      "stem": "弘扬伟大建党精神对广大党员干部提出要求包含？",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚定信仰筑牢思想根基"
+        },
+        {
+          "key": "B",
+          "text": "坚守初心主动担当作为"
+        },
+        {
+          "key": "C",
+          "text": "敢打敢拼勇于攻坚克难"
+        },
+        {
+          "key": "D",
+          "text": "忠诚履职一心服务群众"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "覆盖思想、初心、作风、履职全方位要求。",
+      "knowledge_point": "党员干部弘扬建党精神要求",
+      "tags": [
+        "建党精神",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "founding-spirit-multi-018",
+      "type": "multiple",
+      "category": "foundingSpirit",
+      "difficulty": "normal",
+      "stem": "常态化弘扬伟大建党精神能够实现的作用有？",
+      "options": [
+        {
+          "key": "A",
+          "text": "凝聚全党思想共识"
+        },
+        {
+          "key": "B",
+          "text": "提振全党奋进精气神"
+        },
+        {
+          "key": "C",
+          "text": "规范党员日常言行"
+        },
+        {
+          "key": "D",
+          "text": "助推各项事业稳步发展"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "凝心、提气、正风、促发展多重作用。",
+      "knowledge_point": "常态化弘扬伟大建党精神作用",
+      "tags": [
+        "建党精神",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "founding-spirit-multi-019",
+      "type": "multiple",
+      "category": "foundingSpirit",
+      "difficulty": "normal",
+      "stem": "新时代践行落实伟大建党精神可行路径有？",
+      "options": [
+        {
+          "key": "A",
+          "text": "常态化开展理论学习教育"
+        },
+        {
+          "key": "B",
+          "text": "深入基层密切联系服务群众"
+        },
+        {
+          "key": "C",
+          "text": "立足岗位担当实干奋勇争先"
+        },
+        {
+          "key": "D",
+          "text": "严守党纪永葆清正忠诚本色"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "从学习、服务、实干、守纪多途径落地。",
+      "knowledge_point": "新时代践行落实伟大建党精神路径",
+      "tags": [
+        "建党精神",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "founding-spirit-multi-020",
+      "type": "multiple",
+      "category": "foundingSpirit",
+      "difficulty": "normal",
+      "stem": "伟大建党精神重大理论贡献包含？",
+      "options": [
+        {
+          "key": "A",
+          "text": "丰富新时代党的建设思想"
+        },
+        {
+          "key": "B",
+          "text": "创新发展马克思主义建党学说"
+        },
+        {
+          "key": "C",
+          "text": "深化执政党建设规律认知"
+        },
+        {
+          "key": "D",
+          "text": "完善百年大党精神建设体系"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "兼具理论创新、规律探索、体系完善多重贡献。",
+      "knowledge_point": "伟大建党精神重大理论贡献",
+      "tags": [
+        "建党精神",
+        "多选题"
+      ]
+    }
+  ]
+}

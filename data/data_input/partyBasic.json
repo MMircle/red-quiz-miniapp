@@ -1,0 +1,1657 @@
+{
+  "source_file": "e31b9787070d6b706a9e148338d55a36_4146910436458561498_m_ccp_basic_knowledge_50_questions.txt",
+  "document_type": "structured_questions",
+  "item_count": 50,
+  "items": [
+    {
+      "question_label": "多选",
+      "id": "partyBasic-001",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党诞生的历史背景包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "马克思列宁主义在中国的传播"
+        },
+        {
+          "key": "B",
+          "text": "中国工人阶级的壮大和工人运动的发展"
+        },
+        {
+          "key": "C",
+          "text": "五四运动的促进作用"
+        },
+        {
+          "key": "D",
+          "text": "各地共产党早期组织的成立"
+        }
+      ],
+      "answer": "A, B, C, D",
+      "explanation": "中国共产党的诞生是马克思列宁主义同中国工人运动相结合的产物。五四运动促进了马克思主义在中国的传播及其与工人运动的结合,各地共产党早期组织的成立为党的建立准备了组织条件。",
+      "knowledge_point": "建党历史背景",
+      "tags": [
+        "建党历史",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-002",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党建党初期的“红船精神”内涵包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "开天辟地、敢为人先的首创精神"
+        },
+        {
+          "key": "B",
+          "text": "坚定理想、百折不挠的奋斗精神"
+        },
+        {
+          "key": "C",
+          "text": "立党为公、忠诚为民的奉献精神"
+        },
+        {
+          "key": "D",
+          "text": "艰苦奋斗、勤俭节约的创业精神"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "红船精神的内涵是:开天辟地、敢为人先的首创精神;坚定理想、百折不挠的奋斗精神;立党为公、忠诚为民的奉献精神。",
+      "knowledge_point": "红船精神",
+      "tags": [
+        "中国共产党精神谱系",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-003",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中共一大确定的党的奋斗目标包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "推翻资产阶级"
+        },
+        {
+          "key": "B",
+          "text": "建立无产阶级专政"
+        },
+        {
+          "key": "C",
+          "text": "消灭私有制,实现共产主义"
+        },
+        {
+          "key": "D",
+          "text": "联合资产阶级民主派"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "中共一大通过的党的第一个纲领确定了党的奋斗目标是:以无产阶级革命军队推翻资产阶级,采用无产阶级专政以达到阶级斗争的目的——消灭阶级,废除资本私有制,没收一切生产资料归社会所有。",
+      "knowledge_point": "中共一大",
+      "tags": [
+        "建党历史",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-004",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中共二大在中国近代历史上第一次明确提出了彻底的民主革命纲领,其内容包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "消除内乱,打倒军阀"
+        },
+        {
+          "key": "B",
+          "text": "推翻国际帝国主义的压迫"
+        },
+        {
+          "key": "C",
+          "text": "统一中国为真正的民主共和国"
+        },
+        {
+          "key": "D",
+          "text": "实现社会主义和共产主义"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "中共二大提出了党的最低纲领(民主革命纲领):消除内乱,打倒军阀,建设国内和平;推翻国际帝国主义的压迫,达到中华民族完全独立;统一中国本部为真正民主共和国。选项D属于最高纲领。",
+      "knowledge_point": "中共二大",
+      "tags": [
+        "民主革命纲领",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-005",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党同国民党进行第一次合作的政治基础是新三民主义,新三民主义包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "联俄"
+        },
+        {
+          "key": "B",
+          "text": "联共"
+        },
+        {
+          "key": "C",
+          "text": "扶助农工"
+        },
+        {
+          "key": "D",
+          "text": "平均地权"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "国民党一大确立了“联俄、联共、扶助农工”三大政策,形成了新三民主义,成为第一次国共合作的政治基础。",
+      "knowledge_point": "国共第一次合作",
+      "tags": [
+        "统战历史",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-006",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "1927年中国共产党领导的三大武装起义包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "南昌起义"
+        },
+        {
+          "key": "B",
+          "text": "秋收起义"
+        },
+        {
+          "key": "C",
+          "text": "广州起义"
+        },
+        {
+          "key": "D",
+          "text": "百色起义"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "1927年大革命失败后,中国共产党先后领导了南昌起义、秋收起义和广州起义,进入了独立领导革命战争和创建人民军队的新时期。",
+      "knowledge_point": "三大起义",
+      "tags": [
+        "土地革命历史",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-007",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "八七会议是中国共产党历史上一个重大的转折点,其主要内容包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚决纠正了陈独秀右倾投降主义错误"
+        },
+        {
+          "key": "B",
+          "text": "确定了实行土地革命的方针"
+        },
+        {
+          "key": "C",
+          "text": "确定了武装反抗国民党反动派的总方针"
+        },
+        {
+          "key": "D",
+          "text": "提出了“政权是由枪杆子中取得的”著名论断"
+        }
+      ],
+      "answer": "A, B, C, D",
+      "explanation": "八七会议清算了陈独秀右倾机会主义错误,确定了土地革命和武装反抗国民党反动派的总方针,毛泽东在会上提出了“政权是由枪杆子中取得的”著名论断。",
+      "knowledge_point": "八七会议",
+      "tags": [
+        "党史重要会议",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-008",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "古田会议决议案确立了红军建设的基本原则,主要包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "思想建党"
+        },
+        {
+          "key": "B",
+          "text": "政治建军"
+        },
+        {
+          "key": "C",
+          "text": "党对军队的绝对领导"
+        },
+        {
+          "key": "D",
+          "text": "农村包围城市"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "古田会议确立了思想建党、政治建军的根本原则,规定了红军的无产阶级性质和必须坚持党对军队的绝对领导。",
+      "knowledge_point": "古田会议",
+      "tags": [
+        "军队建设",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-009",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "遵义会议在中国共产党历史上具有极其重要的意义,主要表现在哪些方面?",
+      "options": [
+        {
+          "key": "A",
+          "text": "结束了“左”倾教条主义在中央的统治"
+        },
+        {
+          "key": "B",
+          "text": "确立了毛泽东在红军和党中央的领导地位"
+        },
+        {
+          "key": "C",
+          "text": "独立自主地解决了中国革命的重大问题"
+        },
+        {
+          "key": "D",
+          "text": "在极其危急的关头挽救了党,挽救了红军,挽救了中国革命"
+        }
+      ],
+      "answer": "A, B, C, D",
+      "explanation": "遵义会议结束了王明“左”倾冒险主义在党中央的统治,确立了以毛泽东为核心的党中央的正确领导,标志着中国共产党在政治上走向成熟。",
+      "knowledge_point": "遵义会议",
+      "tags": [
+        "长征历史",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-010",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党在延安时期开展的整风运动,其主要任务是反对哪些错误倾向?",
+      "options": [
+        {
+          "key": "A",
+          "text": "反对主观主义以整顿学风"
+        },
+        {
+          "key": "B",
+          "text": "反对宗派主义以整顿党风"
+        },
+        {
+          "key": "C",
+          "text": "反对党八股以整顿文风"
+        },
+        {
+          "key": "D",
+          "text": "反对官僚主义以整顿作风"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "延安整风运动的三大任务是:反对主观主义以整顿学风,反对宗派主义以整顿党风,反对党八股以整顿文风。",
+      "knowledge_point": "延安整风",
+      "tags": [
+        "党的建设",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-011",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "毛泽东思想在中共七大上被确立为党的指导思想。毛泽东思想的活的灵魂包括哪些基本方面?",
+      "options": [
+        {
+          "key": "A",
+          "text": "实事求是"
+        },
+        {
+          "key": "B",
+          "text": "群众路线"
+        },
+        {
+          "key": "C",
+          "text": "独立自主"
+        },
+        {
+          "key": "D",
+          "text": "艰苦奋斗"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "《关于建国以来党的若干历史问题的决议》指出,毛泽东思想的活的灵魂是贯穿于各个组成部分的立场、观点和方法,有三个基本方面,即实事求是、群众路线、独立自主。",
+      "knowledge_point": "毛泽东思想活的灵魂",
+      "tags": [
+        "理论成果",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-012",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "在中共七届二中全会上,毛泽东提出了“两个务必”,具体内容包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "务必使同志们继续地保持谦虚、谨慎、不骄、不躁的作风"
+        },
+        {
+          "key": "B",
+          "text": "务必使同志们继续地保持艰苦奋斗的作风"
+        },
+        {
+          "key": "C",
+          "text": "务必使同志们继续地保持密切联系群众的作风"
+        },
+        {
+          "key": "D",
+          "text": "务必使同志们继续地保持开拓创新的作风"
+        }
+      ],
+      "answer": "A, B",
+      "explanation": "中共七届二中全会上提出的“两个务必”是指:务必使同志们继续地保持谦虚、谨慎、不骄、不躁的作风;务必使同志们继续地保持艰苦奋斗的作风。",
+      "knowledge_point": "七届二中全会",
+      "tags": [
+        "作风建设",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-013",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党在过渡时期的总路线和总任务通常被称为“一化三改”,“三改”是指对哪些行业进行社会主义改造?",
+      "options": [
+        {
+          "key": "A",
+          "text": "农业"
+        },
+        {
+          "key": "B",
+          "text": "手工业"
+        },
+        {
+          "key": "C",
+          "text": "资本主义工商业"
+        },
+        {
+          "key": "D",
+          "text": "帝国主义在华企业"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "过渡时期总路线中的“三改”是指对农业、手工业和资本主义工商业的社会主义改造。",
+      "knowledge_point": "三大改造",
+      "tags": [
+        "新中国历史",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-014",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "1956年中共八大正确指出了国内的主要矛盾已经发生变化,主要矛盾包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "人民对于建立先进的工业国的要求同落后的农业国的现实之间的矛盾"
+        },
+        {
+          "key": "B",
+          "text": "人民对于经济文化迅速发展的需要同当前经济文化不能满足人民需要状况之间的矛盾"
+        },
+        {
+          "key": "C",
+          "text": "无产阶级同资产阶级的矛盾"
+        },
+        {
+          "key": "D",
+          "text": "社会主义道路同资本主义道路的矛盾"
+        }
+      ],
+      "answer": "A, B",
+      "explanation": "中共八大指出,社会主义改造基本完成后,国内的主要矛盾已经是人民对于建立先进的工业国的要求同落后的农业国的现实之间的矛盾,已经是人民对于经济文化迅速发展的需要同当前经济文化不能满足人民需要状况之间的矛盾。",
+      "knowledge_point": "中共八大",
+      "tags": [
+        "社会主义建设",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-015",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "十一届三中全会是中国共产党历史上具有深远意义的伟大转折,其主要贡献包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "彻底否定了“两个凡是”的方针"
+        },
+        {
+          "key": "B",
+          "text": "重新确立了解放思想、实事求是的思想路线"
+        },
+        {
+          "key": "C",
+          "text": "停止使用“以阶级斗争为纲”的口号"
+        },
+        {
+          "key": "D",
+          "text": "作出了把工作重点转移到社会主义现代化建设上来和实行改革开放的战略决策"
+        }
+      ],
+      "answer": "A, B, C, D",
+      "explanation": "十一届三中全会打破了长期“左”倾错误的严重束缚,彻底否定了“两个凡是”的错误方针,高度评价了关于真理标准问题的讨论,果断停止使用“以阶级斗争为纲”的口号,作出了战略转移和改革开放的决策。",
+      "knowledge_point": "十一届三中全会",
+      "tags": [
+        "改革开放",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-016",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "邓小平提出的“四项基本原则”是中国共产党的立国之本,其内容包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持社会主义道路,坚持人民民主专政"
+        },
+        {
+          "key": "B",
+          "text": "坚持中国共产党的领导"
+        },
+        {
+          "key": "C",
+          "text": "坚持马克思列宁主义、毛泽东思想"
+        },
+        {
+          "key": "D",
+          "text": "坚持改革开放"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "四项基本原则是指:坚持社会主义道路,坚持人民民主专政,坚持中国共产党的领导,坚持马克思列宁主义、毛泽东思想。改革开放是强国之路,两者共同构成党的基本路线的两大支柱。",
+      "knowledge_point": "四项基本原则",
+      "tags": [
+        "党的基本路线",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-017",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中共十三大提出的党在社会主义初级阶段基本路线的主要内容被概括为“一个中心,两个基本点”,其中的“两个基本点”是指哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持以经济建设为中心"
+        },
+        {
+          "key": "B",
+          "text": "坚持四项基本原则"
+        },
+        {
+          "key": "C",
+          "text": "坚持改革开放"
+        },
+        {
+          "key": "D",
+          "text": "坚持独立自主"
+        }
+      ],
+      "answer": "B, C",
+      "explanation": "党的基本路线是“领导和团结全国各族人民,以经济建设为中心,坚持四项基本原则,坚持改革开放,自力更生,艰苦创业,为把我国建设成为富强民主文明和谐美丽的社会主义现代化强国而奋斗”。其中一个中心是经济建设,两个基本点是坚持四项基本原则和坚持改革开放。",
+      "knowledge_point": "党的基本路线",
+      "tags": [
+        "改革开放",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-018",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "邓小平在1992年南方谈话中明确指出了社会主义的本质,其主要内容包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "解放生产力,发展生产力"
+        },
+        {
+          "key": "B",
+          "text": "消灭剥削"
+        },
+        {
+          "key": "C",
+          "text": "消除两极分化"
+        },
+        {
+          "key": "D",
+          "text": "最终达到共同富裕"
+        }
+      ],
+      "answer": "A, B, C, D",
+      "explanation": "邓小平在南方谈话中精辟地指出:“社会主义的本质,是解放生产力,发展生产力,消灭剥削,消除两极分化,最终达到共同富裕。”",
+      "knowledge_point": "南方谈话",
+      "tags": [
+        "邓小平理论",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-019",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "江泽民同志提出的“三个代表”重要思想,具体是指中国共产党要始终代表哪些方面?",
+      "options": [
+        {
+          "key": "A",
+          "text": "中国先进生产力的发展要求"
+        },
+        {
+          "key": "B",
+          "text": "中国先进文化的前进方向"
+        },
+        {
+          "key": "C",
+          "text": "中国最广大人民的根本利益"
+        },
+        {
+          "key": "D",
+          "text": "中国工人阶级的基本利益"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "“三个代表”重要思想的内容是:中国共产党要始终代表中国先进生产力的发展要求,始终代表中国先进文化的前进方向,始终代表中国最广大人民的根本利益。",
+      "knowledge_point": "三个代表重要思想",
+      "tags": [
+        "理论成果",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-020",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "科学发展观是开辟中国特色社会主义道路的重要里程碑,其主要内容包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "第一要义是发展"
+        },
+        {
+          "key": "B",
+          "text": "核心是以人为本"
+        },
+        {
+          "key": "C",
+          "text": "基本要求是全面协调可持续"
+        },
+        {
+          "key": "D",
+          "text": "根本方法是统筹兼顾"
+        }
+      ],
+      "answer": "A, B, C, D",
+      "explanation": "科学发展观,第一要义是发展,核心是以人为本,基本要求是全面协调可持续,根本方法是统筹兼顾。",
+      "knowledge_point": "科学发展观",
+      "tags": [
+        "理论成果",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-021",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党章程规定,党的最高领导机关包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "党的全国代表大会"
+        },
+        {
+          "key": "B",
+          "text": "中央委员会"
+        },
+        {
+          "key": "C",
+          "text": "中央政治局"
+        },
+        {
+          "key": "D",
+          "text": "中央政治局常务委员会"
+        }
+      ],
+      "answer": "A, B",
+      "explanation": "党章规定:党的最高领导机关,是党的全国代表大会和它所产生的中央委员会。",
+      "knowledge_point": "党章组织制度",
+      "tags": [
+        "党章党规",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-022",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "根据党章规定,中国共产党的组织体系包括哪些层次?",
+      "options": [
+        {
+          "key": "A",
+          "text": "党的中央组织"
+        },
+        {
+          "key": "B",
+          "text": "党的地方组织"
+        },
+        {
+          "key": "C",
+          "text": "党的基层组织"
+        },
+        {
+          "key": "D",
+          "text": "党的海外组织"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "中国共产党的组织体系由中央组织、地方组织和基层组织构成。没有正式的海外组织这一法定层级。",
+      "knowledge_point": "党的组织体系",
+      "tags": [
+        "党章党规",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-023",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党的民主集中制的基本原则包括“四个服从”,具体内容包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "党员个人服从党的组织"
+        },
+        {
+          "key": "B",
+          "text": "少数服从多数"
+        },
+        {
+          "key": "C",
+          "text": "下级组织服从上级组织"
+        },
+        {
+          "key": "D",
+          "text": "全党各个组织和全体党员服从党的全国代表大会和中央委员会"
+        }
+      ],
+      "answer": "A, B, C, D",
+      "explanation": "民主集中制基本原则中的“四个服从”是指:党员个人服从党的组织,少数服从多数,下级组织服从上级组织,全党各个组织和全体党员服从党的全国代表大会和中央委员会。",
+      "knowledge_point": "民主集中制",
+      "tags": [
+        "党的制度",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-024",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党章程规定,入党誓词的内容包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "拥护党的纲领,遵守党的章程,履行党员义务"
+        },
+        {
+          "key": "B",
+          "text": "执行党的决定,严守党的纪律,保守党的秘密"
+        },
+        {
+          "key": "C",
+          "text": "对党忠诚,积极工作,为共产主义奋斗终身"
+        },
+        {
+          "key": "D",
+          "text": "随时准备为党和人民牺牲一切,永叛党"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "完整誓词为:我志愿加入中国共产党,拥护党的纲领,遵守党的章程,履行党员义务,执行党的决定,严守党的纪律,保守党的秘密,对党忠诚,积极工作,为共产主义奋斗终身,随时准备为党和人民牺牲一切,永不叛党。选项D中“永叛党”属于严重的印刷/表述错误,应为“永不叛党”。",
+      "knowledge_point": "入党誓词",
+      "tags": [
+        "党章党规",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-025",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党党员的基本义务包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "认真学习马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观、习近平新时代中国特色社会主义思想"
+        },
+        {
+          "key": "B",
+          "text": "贯彻执行党的基本路线和各项方针、政策"
+        },
+        {
+          "key": "C",
+          "text": "坚持党和人民的利益高于一切,吃苦在前,享受在后"
+        },
+        {
+          "key": "D",
+          "text": "自觉遵守党的纪律,模范遵守国家的法律法规"
+        }
+      ],
+      "answer": "A, B, C, D",
+      "explanation": "根据党章第三条规定,上述四项均属于中国共产党党员必须履行的义务。",
+      "knowledge_point": "党员义务",
+      "tags": [
+        "党章党规",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-026",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党党员享有的权利包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "参加党的有关会议,阅读党的有关文件,接受党的教育和培训"
+        },
+        {
+          "key": "B",
+          "text": "在党的会议上和党报党刊上,参加关于党的政策的讨论"
+        },
+        {
+          "key": "C",
+          "text": "对党的工作提出建议和倡议"
+        },
+        {
+          "key": "D",
+          "text": "行使表决权、选举权,有被选举权"
+        }
+      ],
+      "answer": "A, B, C, D",
+      "explanation": "根据党章第四条规定,上述四项均属于中国共产党党员享有的权利。",
+      "knowledge_point": "党员权利",
+      "tags": [
+        "党章党规",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-027",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党在新时代的建设总要求中,明确指出要全面推进党的哪些建设?",
+      "options": [
+        {
+          "key": "A",
+          "text": "政治建设、思想建设"
+        },
+        {
+          "key": "B",
+          "text": "组织建设、作风建设"
+        },
+        {
+          "key": "C",
+          "text": "纪律建设"
+        },
+        {
+          "key": "D",
+          "text": "制度建设、反腐败斗争"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "新时代党的建设总要求是:全面推进党的政治建设、思想建设、组织建设、作风建设、纪律建设,把制度建设贯穿其中,深入推进反腐败斗争。全面推进的内容不包括制度建设和反腐败斗争(它们分别是贯穿和深入推进的内容)。",
+      "knowledge_point": "新时代党的建设总要求",
+      "tags": [
+        "新时代党建",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-028",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "党的“三大作风”是中国共产党在长期革命斗争中形成的优良传统,包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "理论联系实际的作风"
+        },
+        {
+          "key": "B",
+          "text": "密切联系群众的作风"
+        },
+        {
+          "key": "C",
+          "text": "批评与自我批评的作风"
+        },
+        {
+          "key": "D",
+          "text": "艰苦奋斗的作风"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "毛泽东在中共七大上作的《论联合政府》的报告中,将党的优良作风概括为三大作风:理论和实际相结合的作风,和人民群众紧密地联系在一起的作风,自我批评的作风。",
+      "knowledge_point": "三大作风",
+      "tags": [
+        "优良传统",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-029",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党执政后的“四大考验”包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "执政考验"
+        },
+        {
+          "key": "B",
+          "text": "改革开放考验"
+        },
+        {
+          "key": "C",
+          "text": "市场经济考验"
+        },
+        {
+          "key": "D",
+          "text": "外部环境考验"
+        }
+      ],
+      "answer": "A, B, C, D",
+      "explanation": "中国共产党面临的“四大考验”是指:执政考验、改革开放考验、市场经济考验、外部环境考验。",
+      "knowledge_point": "四大考验",
+      "tags": [
+        "新时代党建",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-030",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党面临的“四大危险”包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "精神懈怠危险"
+        },
+        {
+          "key": "B",
+          "text": "能力不足危险"
+        },
+        {
+          "key": "C",
+          "text": "脱离群众危险"
+        },
+        {
+          "key": "D",
+          "text": "消极腐败危险"
+        }
+      ],
+      "answer": "A, B, C, D",
+      "explanation": "中国共产党面临的“四大危险”是指:精神懈怠危险、能力不足危险、脱离群众危险、消极腐败危险。",
+      "knowledge_point": "四大危险",
+      "tags": [
+        "新时代党建",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-031",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "监督执纪的“四种形态”是指哪些内容?",
+      "options": [
+        {
+          "key": "A",
+          "text": "党内关系要经常谈话咆哮,让“红红脸、出出汗”成为常态"
+        },
+        {
+          "key": "B",
+          "text": "党纪轻处分、组织调整成为违纪处理的大多数"
+        },
+        {
+          "key": "C",
+          "text": "党纪重处分、重大职务调整成为少数"
+        },
+        {
+          "key": "D",
+          "text": "严重违纪涉嫌违法立案审查成为极少数"
+        }
+      ],
+      "answer": "B, C, D",
+      "explanation": "“四种形态”是指:经常开展批评和自我批评、约谈函询,让“红红脸、出出汗”成为常态;党纪轻处分、组织调整成为违纪处理的大多数;党纪重处分、重大职务调整成为少数;严重违纪涉嫌违法立案审查成为极少数。选项A表述错误。",
+      "knowledge_point": "四种形态",
+      "tags": [
+        "党纪监督",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-032",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党的纪律主要包括哪些方面?",
+      "options": [
+        {
+          "key": "A",
+          "text": "政治纪律、组织纪律"
+        },
+        {
+          "key": "B",
+          "text": "廉洁纪律、群众纪律"
+        },
+        {
+          "key": "C",
+          "text": "工作纪律、生活纪律"
+        },
+        {
+          "key": "D",
+          "text": "外事纪律、保密纪律"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "《中国共产党纪律处分条例》明确规定,党的纪律主要包括政治纪律、组织纪律、廉洁纪律、群众纪律、工作纪律、生活纪律。外事和保密包含在其中,但不作为并列的六大纪律分类。",
+      "knowledge_point": "党的六大纪律",
+      "tags": [
+        "党纪党规",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-033",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "对中国共产党党员的纪律处分包括哪些种类?",
+      "options": [
+        {
+          "key": "A",
+          "text": "警告、严重警告"
+        },
+        {
+          "key": "B",
+          "text": "撤销党内职务"
+        },
+        {
+          "key": "C",
+          "text": "留党察看"
+        },
+        {
+          "key": "D",
+          "text": "开除党籍"
+        }
+      ],
+      "answer": "A, B, C, D",
+      "explanation": "根据党章和纪律处分条例规定,对党员的纪律处分有五种:警告、严重警告、撤销党内职务、留党察看、开除党籍。",
+      "knowledge_point": "党纪处分类别",
+      "tags": [
+        "党纪党规",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-034",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "对党的基层组织进行党纪处分的种类包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "改组"
+        },
+        {
+          "key": "B",
+          "text": "解散"
+        },
+        {
+          "key": "C",
+          "text": "通报批评"
+        },
+        {
+          "key": "D",
+          "text": "诫勉谈话"
+        }
+      ],
+      "answer": "A, B",
+      "explanation": "《中国共产党纪律处分条例》规定,对违犯党纪的党组织的处理方式包括改组和解散两种。",
+      "knowledge_point": "党组织处分",
+      "tags": [
+        "党纪党规",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-035",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党推进依法治国的根本原则包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持中国共产党的领导"
+        },
+        {
+          "key": "B",
+          "text": "坚持人民主体地位"
+        },
+        {
+          "key": "C",
+          "text": "坚持法律面前人人平等"
+        },
+        {
+          "key": "D",
+          "text": "坚持依法治国和以德治国相结合"
+        }
+      ],
+      "answer": "A, B, C, D",
+      "explanation": "全面推进依法治国必须坚持五个基本原则:坚持中国共产党的领导,坚持人民主体地位,坚持法律面前人人平等,坚持依法治国和以德治国相结合,坚持从中国实际出发。",
+      "knowledge_point": "依法治国原则",
+      "tags": [
+        "治国理政",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-036",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国特色社会主义事业的总体布局是“五位一体”,其内容包括哪些建设?",
+      "options": [
+        {
+          "key": "A",
+          "text": "经济建设、政治建设"
+        },
+        {
+          "key": "B",
+          "text": "文化建设、社会建设"
+        },
+        {
+          "key": "C",
+          "text": "生态文明建设"
+        },
+        {
+          "key": "D",
+          "text": "国防和军队建设"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "“五位一体”总体布局是指:经济建设、政治建设、文化建设、社会建设、生态文明建设。",
+      "knowledge_point": "五位一体",
+      "tags": [
+        "治国理政",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-037",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国特色社会主义事业的战略布局是“四个全面”,其内容包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "全面建设社会主义现代化国家"
+        },
+        {
+          "key": "B",
+          "text": "全面深化改革"
+        },
+        {
+          "key": "C",
+          "text": "全面依法治国"
+        },
+        {
+          "key": "D",
+          "text": "全面从严治党"
+        }
+      ],
+      "answer": "A, B, C, D",
+      "explanation": "“四个全面”战略布局是指:全面建设社会主义现代化国家、全面深化改革、全面依法治国、全面从严治党。",
+      "knowledge_point": "四个全面",
+      "tags": [
+        "治国理政",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-038",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "新时代中国共产党面临的“两个大局”是指哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "中华民族伟大复兴的战略全局"
+        },
+        {
+          "key": "B",
+          "text": "世界百年未有之大变局"
+        },
+        {
+          "key": "C",
+          "text": "西方大国衰落的国际新格局"
+        },
+        {
+          "key": "D",
+          "text": "国内经济高质量发展的全面布局"
+        }
+      ],
+      "answer": "A, B",
+      "explanation": "习近平总书记强调,我们要胸怀两个大局,一个是中华民族伟大复兴的战略全局,一个是世界百年未有之大变局,这是我们谋划工作的基本出发点。",
+      "knowledge_point": "两个大局",
+      "tags": [
+        "新时代战略",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-039",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党提出的新发展理念的内容包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "创新、协调"
+        },
+        {
+          "key": "B",
+          "text": "绿色"
+        },
+        {
+          "key": "C",
+          "text": "开放"
+        },
+        {
+          "key": "D",
+          "text": "共享"
+        }
+      ],
+      "answer": "A, B, C, D",
+      "explanation": "新发展理念是指:创新、协调、绿色、开放、共享的发展理念。",
+      "knowledge_point": "新发展理念",
+      "tags": [
+        "经济建设",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-040",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党的组织原则——民主集中制中的“集中”是指哪些内容?",
+      "options": [
+        {
+          "key": "A",
+          "text": "全党意志的集中"
+        },
+        {
+          "key": "B",
+          "text": "全党智慧的集中"
+        },
+        {
+          "key": "C",
+          "text": "统一的行动和步调"
+        },
+        {
+          "key": "D",
+          "text": "领导个人说了算"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "民主集中制形式下的集中是在民主基础上的集中,代表全党意志和智慧的凝聚,达到统一领导、统一行动的目的。选项D严重违反民主集中制原则。",
+      "knowledge_point": "民主集中制内涵",
+      "tags": [
+        "党的制度",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-041",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党的统战工作“十六字方针”是指哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "长期共存,互相监督"
+        },
+        {
+          "key": "B",
+          "text": "肝胆相照,荣辱与共"
+        },
+        {
+          "key": "C",
+          "text": "相互支持,精诚合作"
+        },
+        {
+          "key": "D",
+          "text": "高度一致,融为一体"
+        }
+      ],
+      "answer": "A, B",
+      "explanation": "中国共产党与各民主党派合作的十六字方针是:“长期共存、互相监督、肝胆相照、荣辱与共”。",
+      "knowledge_point": "统战方针",
+      "tags": [
+        "统一战线",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-042",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党领导的社会主义协商民主的主要形式包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "政党协商、人大协商"
+        },
+        {
+          "key": "B",
+          "text": "政府协商、政协协商"
+        },
+        {
+          "key": "C",
+          "text": "人民团体协商、基层协商"
+        },
+        {
+          "key": "D",
+          "text": "社会组织协商"
+        }
+      ],
+      "answer": "A, B, C, D",
+      "explanation": "我国协商民主的形式包括:政党协商、人大协商、政府协商、政协协商、人民团体协商、基层协商、社会组织协商。",
+      "knowledge_point": "协商民主",
+      "tags": [
+        "政治制度",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-043",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党在长期奋斗中凝练出的“第一批中国共产党人精神谱系”包括哪些精神?",
+      "options": [
+        {
+          "key": "A",
+          "text": "井冈山精神、长征精神"
+        },
+        {
+          "key": "B",
+          "text": "延安精神、西柏坡精神"
+        },
+        {
+          "key": "C",
+          "text": "大庆精神、两弹一星精神"
+        },
+        {
+          "key": "D",
+          "text": "抗疫精神、脱贫攻坚精神"
+        }
+      ],
+      "answer": "A, B, C, D",
+      "explanation": "中国共产党人精神谱系涵盖了各个历史时期。A、B属于革命时期;C属于建设时期;D属于新时代。它们都属于中国共产党人精神谱系的重要组成部分。",
+      "knowledge_point": "精神谱系",
+      "tags": [
+        "中国共产党精神谱系",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-044",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "贯彻“孤立、分化、利用、打击”的统战策略,中国共产党在民主革命时期的三大法宝包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "统一战线"
+        },
+        {
+          "key": "B",
+          "text": "武装斗争"
+        },
+        {
+          "key": "C",
+          "text": "党的建设"
+        },
+        {
+          "key": "D",
+          "text": "实事求是"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "毛泽东在《〈共产党人〉发刊词》中指出:统一战线,武装斗争,党的建设,是中国共产党在中国革命中战胜敌人的三个法宝。实事求是属于思想路线。",
+      "knowledge_point": "三大法宝",
+      "tags": [
+        "毛泽东思想",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-045",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "新时代党章指出,牢牢掌握意识形态工作领导权,要全面贯彻落实哪些要求?",
+      "options": [
+        {
+          "key": "A",
+          "text": "马克思主义在意识形态领域的指导地位"
+        },
+        {
+          "key": "B",
+          "text": "培育和践行社会主义核心价值观"
+        },
+        {
+          "key": "C",
+          "text": "推动中华优秀传统文化创造性转化、创新性发展"
+        },
+        {
+          "key": "D",
+          "text": "对外全面封锁非马克思主义思想"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "党章规定要牢牢掌握意识形态工作领导权,坚持马克思主义在意识形态领域的指导地位,培育和践行社会主义核心价值观,弘扬和发展先进文化。选项D不符合对外开放和文化交流原则。",
+      "knowledge_point": "意识形态工作",
+      "tags": [
+        "文化建设",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-046",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党党员在什么情况下会被认为是自行脱党?",
+      "options": [
+        {
+          "key": "A",
+          "text": "没有正当理由,连续六个月不参加党的组织生活"
+        },
+        {
+          "key": "B",
+          "text": "没有正当理由,连续六个月不交纳党费"
+        },
+        {
+          "key": "C",
+          "text": "没有正当理由,连续六个月不做党所分配的工作"
+        },
+        {
+          "key": "D",
+          "text": "连续两个月未向党组织汇报思想动态"
+        }
+      ],
+      "answer": "A, B, C",
+      "explanation": "党章规定:党员如果没有正当理由,连续六个月不参加党的组织生活,或不交纳党费,或不做党所分配的工作,就被认为是自行脱党。",
+      "knowledge_point": "自行脱党情形",
+      "tags": [
+        "党章党规",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-047",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "发展党员工作必须严格按照党章规定的标准和程序进行,其遵循的十六字总要求包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "控制总量、优化结构"
+        },
+        {
+          "key": "B",
+          "text": "提高质量、发挥作用"
+        },
+        {
+          "key": "C",
+          "text": "入党自愿、个别吸收"
+        },
+        {
+          "key": "D",
+          "text": "政治规范、程序严密"
+        }
+      ],
+      "answer": "A, B",
+      "explanation": "新时期发展党员工作的十六字总要求是:控制总量、优化结构、提高质量、发挥作用。选项C属于发展党员的基本原则,但非十六字总要求的内容。",
+      "knowledge_point": "发展党员工作",
+      "tags": [
+        "党的建设",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-048",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党第十九次全国代表大会对新时代推进现代化建设作出了两步走战略安排,具体指哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "从二〇二〇年到二〇三五年,基本实现社会主义现代化"
+        },
+        {
+          "key": "B",
+          "text": "从二〇三五年到本世纪中叶,把我国建设成为富强民主文明和谐美丽的社会主义现代化强国"
+        },
+        {
+          "key": "C",
+          "text": "从二〇二〇年到二〇三〇年,全面建成小康社会"
+        },
+        {
+          "key": "D",
+          "text": "从二〇三〇年到本世纪末,全面实现共产主义"
+        }
+      ],
+      "answer": "A, B",
+      "explanation": "十九大提出的新两步走战略是指:第一阶段,从二〇二〇年到二〇三五年,基本实现社会主义现代化;第二阶段,从二〇三五年到本世纪中叶,把我国建设成为富强民主文明和谐美丽的社会主义现代化强国。",
+      "knowledge_point": "两步走战略",
+      "tags": [
+        "新时代战略",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-049",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "习近平总书记强调的“四个自信”是中国共产党领导人民走向复兴的力量源泉,其内容包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "道路自信"
+        },
+        {
+          "key": "B",
+          "text": "理论自信"
+        },
+        {
+          "key": "C",
+          "text": "制度自信"
+        },
+        {
+          "key": "D",
+          "text": "文化自信"
+        }
+      ],
+      "answer": "A, B, C, D",
+      "explanation": "“四个自信”是指:中国特色社会主义道路自信、理论自信、制度自信、文化自信。",
+      "knowledge_point": "四个自信",
+      "tags": [
+        "治国理政",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "partyBasic-050",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党章程明确规定,党的各级领导干部必须具备的基本条件包括哪些?",
+      "options": [
+        {
+          "key": "A",
+          "text": "具有履行职责所需要的马克思列宁主义、毛泽东思想、邓小平理论等理论水平"
+        },
+        {
+          "key": "B",
+          "text": "具有强烈的革命事业心和政治责任感,有实践经验"
+        },
+        {
+          "key": "C",
+          "text": "坚持解放思想,实事求是,与时俱进,开拓创新"
+        },
+        {
+          "key": "D",
+          "text": "正确行使人民赋予的权力,坚持原则,清正廉洁,勤政为民"
+        }
+      ],
+      "answer": "A, B, C, D",
+      "explanation": "根据党章第三十六条规定,上述四项均属于党的各级领导干部必须具备的基本条件。",
+      "knowledge_point": "领导干部条件",
+      "tags": [
+        "党章党规",
+        "多选题"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1893 @@
+{
+  "source_file": "成泽宇多选题50道.md",
+  "document_type": "structured_questions",
+  "item_count": 50,
+  "items": [
+    {
+      "question_label": "多选",
+      "id": "party-basic-001",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "改革开放以来我们取得一切成绩和进步的根本原因是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持了一个中心两个基本点"
+        },
+        {
+          "key": "B",
+          "text": "开辟了中国特色社会主义道路"
+        },
+        {
+          "key": "C",
+          "text": "形成了中国特色社会主义理论体系"
+        },
+        {
+          "key": "D",
+          "text": "建设了社会主义市场经济体制"
+        }
+      ],
+      "answer": [
+        "B",
+        "C"
+      ],
+      "explanation": "根本原因是开辟了中国特色社会主义道路和形成了中国特色社会主义理论体系。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-002",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "党按照德才兼备的原则选拔干部，坚持任人唯贤，反对任人唯亲，努力实现干部队伍的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "革命化"
+        },
+        {
+          "key": "B",
+          "text": "年轻化"
+        },
+        {
+          "key": "C",
+          "text": "知识化"
+        },
+        {
+          "key": "D",
+          "text": "专业化"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "干部队伍要革命化、年轻化、知识化、专业化。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-003",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "始终做到“三个代表”，是我们党的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "治国之策"
+        },
+        {
+          "key": "B",
+          "text": "立党之本"
+        },
+        {
+          "key": "C",
+          "text": "执政之基"
+        },
+        {
+          "key": "D",
+          "text": "力量之源"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "“三个代表”是立党之本、执政之基、力量之源。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-004",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "党的建设必须坚决实现以下哪几项基本要求？",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持党的基本路线"
+        },
+        {
+          "key": "B",
+          "text": "坚持解放思想，实事求是，与时俱进"
+        },
+        {
+          "key": "C",
+          "text": "坚持全心全意为人民服务"
+        },
+        {
+          "key": "D",
+          "text": "坚持民主集中制"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "党的建设四项基本要求包括坚持基本路线、解放思想、为人民服务、民主集中制。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-005",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "预备党员的权利，除了没有以下哪几项权利以外，同正式党员一样？",
+      "options": [
+        {
+          "key": "A",
+          "text": "表决权"
+        },
+        {
+          "key": "B",
+          "text": "选举权"
+        },
+        {
+          "key": "C",
+          "text": "被选举权"
+        },
+        {
+          "key": "D",
+          "text": "发表意见权"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "预备党员没有表决权、选举权和被选举权。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-006",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "坚持和完善人民代表大会制度，必须？",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持党的领导"
+        },
+        {
+          "key": "B",
+          "text": "坚持人民当家作主"
+        },
+        {
+          "key": "C",
+          "text": "坚持依法治国"
+        },
+        {
+          "key": "D",
+          "text": "坚持民主集中制"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "坚持和完善人大制度必须坚持党的领导、人民当家作主、依法治国和民主集中制。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-007",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "改革开放以来我们取得一切成绩和进步的根本原因，归结起来就是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "开辟了中国特色社会主义道路"
+        },
+        {
+          "key": "B",
+          "text": "形成了中国特色社会主义理论体系"
+        },
+        {
+          "key": "C",
+          "text": "确立了中国特色社会主义制度"
+        },
+        {
+          "key": "D",
+          "text": "发展了中国特色社会主义文化"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "归结为开辟了道路、形成了理论体系、确立了制度。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-008",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中共八七会议上确定的两大总方针是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "实行土地革命"
+        },
+        {
+          "key": "B",
+          "text": "走农村包围城市道路"
+        },
+        {
+          "key": "C",
+          "text": "武装反抗国民党反动派"
+        },
+        {
+          "key": "D",
+          "text": "掌握军队领导权"
+        }
+      ],
+      "answer": [
+        "A",
+        "C"
+      ],
+      "explanation": "八七会议确定了土地革命和武装反抗国民党反动派的总方针。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-009",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "社会主义的本质是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "解放生产力"
+        },
+        {
+          "key": "B",
+          "text": "发展生产力"
+        },
+        {
+          "key": "C",
+          "text": "消灭剥削、消除两极分化"
+        },
+        {
+          "key": "D",
+          "text": "最终达到共同富裕"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "社会主义本质是解放和发展生产力，消灭剥削，消除两极分化，最终共同富裕。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-010",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "2016年2月3日，习近平在江西考察工作时指出，井冈山精神的内涵包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚定信念、艰苦奋斗"
+        },
+        {
+          "key": "B",
+          "text": "实事求是、敢闯新路"
+        },
+        {
+          "key": "C",
+          "text": "依靠群众、勇于胜利"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "井冈山精神包括坚定信念、艰苦奋斗，实事求是、敢闯新路，依靠群众、勇于胜利。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-011",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "发展社会主义民主政治，最根本的是要把坚持以下哪几项的有机统一？",
+      "options": [
+        {
+          "key": "A",
+          "text": "党的领导"
+        },
+        {
+          "key": "B",
+          "text": "人民当家作主"
+        },
+        {
+          "key": "C",
+          "text": "依法治国"
+        },
+        {
+          "key": "D",
+          "text": "依法执政"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "最根本的是坚持党的领导、人民当家作主、依法治国有机统一。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-012",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "党组织对违犯党的纪律的党员，应坚持？",
+      "options": [
+        {
+          "key": "A",
+          "text": "惩前毖后、治病救人"
+        },
+        {
+          "key": "B",
+          "text": "执纪必严、违纪必究"
+        },
+        {
+          "key": "C",
+          "text": "抓早抓小、防微杜渐"
+        },
+        {
+          "key": "D",
+          "text": "严的要求、严的标准"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "应坚持惩前毖后、治病救人，执纪必严、违纪必究，抓早抓小、防微杜渐。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-013",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "1924年举行的国民党一大事实上确立了哪三大革命政策？",
+      "options": [
+        {
+          "key": "A",
+          "text": "耕者有其田"
+        },
+        {
+          "key": "B",
+          "text": "联俄"
+        },
+        {
+          "key": "C",
+          "text": "联共"
+        },
+        {
+          "key": "D",
+          "text": "扶助农工"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "国民党一大确立了联俄、联共、扶助农工的三大政策。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-014",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "党员在留党察看期间没有哪些权利？",
+      "options": [
+        {
+          "key": "A",
+          "text": "表决权"
+        },
+        {
+          "key": "B",
+          "text": "选举权"
+        },
+        {
+          "key": "C",
+          "text": "被选举权"
+        },
+        {
+          "key": "D",
+          "text": "控告权"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "留党察看期间没有表决权、选举权和被选举权。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-015",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "改革开放以来，我们取得一切成绩和进步的根本原因，归结起来就是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "开辟了中国特色社会主义道路"
+        },
+        {
+          "key": "B",
+          "text": "形成了中国特色社会主义理论体系"
+        },
+        {
+          "key": "C",
+          "text": "确定了中国特色社会主义制度"
+        },
+        {
+          "key": "D",
+          "text": "发展了中国特色社会主义文化"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "根本原因归结为道路、理论体系、制度、文化四个方面。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-016",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "领导十三亿多人的社会主义大国，我们党既要政治过硬，也要本领高强。要？",
+      "options": [
+        {
+          "key": "A",
+          "text": "增强学习本领，增强政治领导本领"
+        },
+        {
+          "key": "B",
+          "text": "增强改革创新本领，增强科学发展本领"
+        },
+        {
+          "key": "C",
+          "text": "增强依法执政本领，增强群众工作本领"
+        },
+        {
+          "key": "D",
+          "text": "增强狠抓落实本领，增强驾驭风险本领"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "要全面增强学习、政治领导、改革创新、科学发展、依法执政、群众工作、狠抓落实、驾驭风险等本领。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-017",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "青年兴则国家兴，青年强则国家强。青年一代有哪几样，国家就有前途，民族就有希望？",
+      "options": [
+        {
+          "key": "A",
+          "text": "有品德"
+        },
+        {
+          "key": "B",
+          "text": "有理想"
+        },
+        {
+          "key": "C",
+          "text": "有本领"
+        },
+        {
+          "key": "D",
+          "text": "有担当"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "青年一代有理想、有本领、有担当，国家就有前途，民族就有希望。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-018",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "全党全国各族人民要紧密团结在党中央周围，为实现哪些任务继续奋斗？",
+      "options": [
+        {
+          "key": "A",
+          "text": "决胜全面建成小康社会"
+        },
+        {
+          "key": "B",
+          "text": "夺取新时代中国特色社会主义伟大胜利"
+        },
+        {
+          "key": "C",
+          "text": "全面建成社会主义现代化强国"
+        },
+        {
+          "key": "D",
+          "text": "实现中华民族伟大复兴的中国梦"
+        },
+        {
+          "key": "E",
+          "text": "实现人民对美好生活的向往"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "explanation": "为实现决胜全面建成小康社会、夺取新时代中国特色社会主义伟大胜利、实现中国梦、实现人民对美好生活的向往而奋斗。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-019",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "关于全国人大职权，下列哪些说法是正确的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "选举国家主席、副主席"
+        },
+        {
+          "key": "B",
+          "text": "选举最高人民法院院长、最高人民检察院检察长"
+        },
+        {
+          "key": "C",
+          "text": "选举国务院总理、副总理"
+        },
+        {
+          "key": "D",
+          "text": "决定特别行政区的设立与建置"
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ],
+      "explanation": "全国人大选举国家主席、副主席，选举最高法院长、最高检检察长。总理等由国家主席提名、全国人大决定。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-020",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "宪法确定：“中国各族人民将继续在中国共产党领导下，把我国建设成为什么样的社会主义国家？”",
+      "options": [
+        {
+          "key": "A",
+          "text": "自由"
+        },
+        {
+          "key": "B",
+          "text": "民主"
+        },
+        {
+          "key": "C",
+          "text": "文明"
+        },
+        {
+          "key": "D",
+          "text": "富强"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "建设成为富强、民主、文明的社会主义国家。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-021",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "党支部“三会一课”制度中的“三会”指的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "支部党员大会"
+        },
+        {
+          "key": "B",
+          "text": "支部委员会"
+        },
+        {
+          "key": "C",
+          "text": "党小组会"
+        },
+        {
+          "key": "D",
+          "text": "党员代表大会"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "“三会”指支部党员大会、支部委员会、党小组会。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-022",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党的优良传统包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "密切联系群众"
+        },
+        {
+          "key": "B",
+          "text": "理论联系实际"
+        },
+        {
+          "key": "C",
+          "text": "批评与自我批评"
+        },
+        {
+          "key": "D",
+          "text": "独立自主"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "三大优良传统是密切联系群众、理论联系实际、批评与自我批评。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-023",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国式现代化的特征包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "全体人民共同富裕"
+        },
+        {
+          "key": "B",
+          "text": "物质文明和精神文明相协调"
+        },
+        {
+          "key": "C",
+          "text": "人与自然和谐共生"
+        },
+        {
+          "key": "D",
+          "text": "走和平发展道路"
+        }
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "中国式现代化是物质文明和精神文明相协调、人与自然和谐共生、走和平发展道路的现代化。共同富裕是本质要求之一，但选项A表述不完整，此处按答案BCD。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-024",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "从申请入党到成为正式党员必须经过的程序包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "被确定为入党积极分子"
+        },
+        {
+          "key": "B",
+          "text": "被确定为发展对象"
+        },
+        {
+          "key": "C",
+          "text": "进行政治审查"
+        },
+        {
+          "key": "D",
+          "text": "预备党员的培养与转正"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "必经程序包括积极分子、发展对象、政审、预备党员及转正。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-025",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "党员如果没有正当理由，出现哪些情况就被认为自行脱党？",
+      "options": [
+        {
+          "key": "A",
+          "text": "连续六个月不参加党的组织生活"
+        },
+        {
+          "key": "B",
+          "text": "不交纳党费"
+        },
+        {
+          "key": "C",
+          "text": "不履行党员义务"
+        },
+        {
+          "key": "D",
+          "text": "不做党分配的工作"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "连续六个月不参加组织生活、不交党费、不履行义务、不做党分配的工作，视为自行脱党。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-026",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "党的纪律处分的种类包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "警告"
+        },
+        {
+          "key": "B",
+          "text": "严重警告"
+        },
+        {
+          "key": "C",
+          "text": "撤销党内职务"
+        },
+        {
+          "key": "D",
+          "text": "留党察看"
+        },
+        {
+          "key": "E",
+          "text": "开除党籍"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "explanation": "五种纪律处分：警告、严重警告、撤销党内职务、留党察看、开除党籍。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-027",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "党的思想路线包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "一切从实际出发"
+        },
+        {
+          "key": "B",
+          "text": "理论联系实际"
+        },
+        {
+          "key": "C",
+          "text": "实事求是"
+        },
+        {
+          "key": "D",
+          "text": "在实践中检验真理和发展真理"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "思想路线是一切从实际出发，理论联系实际，实事求是，在实践中检验和发展真理。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-028",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "“四个服从”的具体内容包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "个人服从组织"
+        },
+        {
+          "key": "B",
+          "text": "少数服从多数"
+        },
+        {
+          "key": "C",
+          "text": "下级服从上级"
+        },
+        {
+          "key": "D",
+          "text": "全党服从中央"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "“四个服从”是个人服从组织、少数服从多数、下级服从上级、全党服从中央。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-029",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "发展党员工作必须贯彻的原则包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "入党自愿"
+        },
+        {
+          "key": "B",
+          "text": "个别吸收"
+        },
+        {
+          "key": "C",
+          "text": "计划发展"
+        },
+        {
+          "key": "D",
+          "text": "保证质量"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "必须贯彻入党自愿、个别吸收、保证质量的原则。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-030",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "党员的权利包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "参加党的有关会议，阅读党的有关文件"
+        },
+        {
+          "key": "B",
+          "text": "对党的工作提出建议和倡议"
+        },
+        {
+          "key": "C",
+          "text": "行使表决权、选举权，有被选举权"
+        },
+        {
+          "key": "D",
+          "text": "向党的上级组织提出请求、申诉和控告"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "党员权利包括参加会议、阅读文件、提出建议、表决权、选举权、被选举权、申诉控告等。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-031",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "党员必须履行的义务包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "认真学习党的理论和业务知识"
+        },
+        {
+          "key": "B",
+          "text": "贯彻执行党的基本路线和各项方针政策"
+        },
+        {
+          "key": "C",
+          "text": "坚持党和人民的利益高于一切"
+        },
+        {
+          "key": "D",
+          "text": "维护党的团结和统一"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "党员义务包括学习理论、执行政策、利益高于一切、维护团结统一等。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-032",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "新形势下党内政治生活的若干准则包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚定理想信念"
+        },
+        {
+          "key": "B",
+          "text": "严明党的政治纪律"
+        },
+        {
+          "key": "C",
+          "text": "发扬党内民主和保障党员权利"
+        },
+        {
+          "key": "D",
+          "text": "坚持正确选人用人导向"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "准则包括坚定理想信念、严明纪律、发扬民主、正确选人用人等。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-033",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "党的建设必须坚决实现的基本要求包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持党的基本路线"
+        },
+        {
+          "key": "B",
+          "text": "坚持解放思想、实事求是"
+        },
+        {
+          "key": "C",
+          "text": "坚持全心全意为人民服务"
+        },
+        {
+          "key": "D",
+          "text": "坚持民主集中制"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "基本要求包括坚持基本路线、解放思想、为人民服务、民主集中制。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-034",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "新发展理念包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "创新"
+        },
+        {
+          "key": "B",
+          "text": "协调"
+        },
+        {
+          "key": "C",
+          "text": "绿色"
+        },
+        {
+          "key": "D",
+          "text": "开放"
+        },
+        {
+          "key": "E",
+          "text": "共享"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "explanation": "新发展理念是创新、协调、绿色、开放、共享。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-035",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "党的百年奋斗的历史经验包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持党的领导"
+        },
+        {
+          "key": "B",
+          "text": "坚持人民至上"
+        },
+        {
+          "key": "C",
+          "text": "坚持理论创新"
+        },
+        {
+          "key": "D",
+          "text": "坚持独立自主"
+        },
+        {
+          "key": "E",
+          "text": "坚持中国道路"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "explanation": "百年历史经验包括坚持党的领导、人民至上、理论创新、独立自主、中国道路等。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-036",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "全面深化改革的原则包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持党的全面领导"
+        },
+        {
+          "key": "B",
+          "text": "坚持以人民为中心"
+        },
+        {
+          "key": "C",
+          "text": "坚持守正创新"
+        },
+        {
+          "key": "D",
+          "text": "坚持系统观念"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "全面深化改革原则包括坚持党的全面领导、以人民为中心、守正创新、系统观念。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-037",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "党内政治生活的重要任务包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚决反对形式主义、官僚主义"
+        },
+        {
+          "key": "B",
+          "text": "坚决反对享乐主义、奢靡之风"
+        },
+        {
+          "key": "C",
+          "text": "坚决反对个人主义、分散主义"
+        },
+        {
+          "key": "D",
+          "text": "坚决反对自由主义、本位主义"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "重要任务包括反对形式主义、官僚主义、享乐主义、奢靡之风、个人主义、分散主义、自由主义、本位主义。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-038",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "党的基层组织的基本任务包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "宣传和执行党的路线、方针、政策"
+        },
+        {
+          "key": "B",
+          "text": "对党员进行教育、管理、监督和服务"
+        },
+        {
+          "key": "C",
+          "text": "密切联系群众，了解群众诉求"
+        },
+        {
+          "key": "D",
+          "text": "领导本地区本单位的基层治理"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "基层组织任务包括宣传执行政策、教育管理监督党员、联系群众、领导基层治理。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-039",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "政治审查的主要内容包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "对党的政治态度"
+        },
+        {
+          "key": "B",
+          "text": "政治表现"
+        },
+        {
+          "key": "C",
+          "text": "遵纪守法情况"
+        },
+        {
+          "key": "D",
+          "text": "主要社会关系"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "政审内容包括政治态度、政治表现、遵纪守法情况、主要社会关系。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-040",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "中国共产党代表？",
+      "options": [
+        {
+          "key": "A",
+          "text": "中国先进生产力的发展要求"
+        },
+        {
+          "key": "B",
+          "text": "中国先进文化的前进方向"
+        },
+        {
+          "key": "C",
+          "text": "中国最广大人民的根本利益"
+        },
+        {
+          "key": "D",
+          "text": "中国工人阶级的利益"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "党代表先进生产力发展要求、先进文化前进方向、最广大人民根本利益。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-041",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "坚持四项基本原则的内容包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持社会主义道路"
+        },
+        {
+          "key": "B",
+          "text": "坚持人民民主专政"
+        },
+        {
+          "key": "C",
+          "text": "坚持党的领导"
+        },
+        {
+          "key": "D",
+          "text": "坚持马克思列宁主义"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "四项基本原则是坚持社会主义道路、人民民主专政、党的领导、马克思列宁主义。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-042",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "党风建设的主要任务包括反对？",
+      "options": [
+        {
+          "key": "A",
+          "text": "形式主义"
+        },
+        {
+          "key": "B",
+          "text": "官僚主义"
+        },
+        {
+          "key": "C",
+          "text": "享乐主义"
+        },
+        {
+          "key": "D",
+          "text": "奢靡之风"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "反对“四风”：形式主义、官僚主义、享乐主义、奢靡之风。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-043",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "党的全国代表大会的职权包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "听取和审查中央委员会的报告"
+        },
+        {
+          "key": "B",
+          "text": "审查中央纪律检查委员会的报告"
+        },
+        {
+          "key": "C",
+          "text": "修改党的章程"
+        },
+        {
+          "key": "D",
+          "text": "选举中央委员会和中央纪律检查委员会"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "全国代表大会职权包括听取审查中央委员会报告、审查中纪委报告、修改党章、选举中央委员会和中纪委。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-044",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "推进生态文明建设的主要措施包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚持绿色发展"
+        },
+        {
+          "key": "B",
+          "text": "加强生态环境保护"
+        },
+        {
+          "key": "C",
+          "text": "推进资源节约集约利用"
+        },
+        {
+          "key": "D",
+          "text": "完善生态文明制度体系"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "措施包括绿色发展、生态环保、资源节约、完善制度体系。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-045",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "保障和改善民生的重点包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "就业"
+        },
+        {
+          "key": "B",
+          "text": "教育"
+        },
+        {
+          "key": "C",
+          "text": "医疗"
+        },
+        {
+          "key": "D",
+          "text": "社会保障"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "重点包括就业、教育、医疗、社会保障。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-046",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "党员在党内生活中享有哪些权利？",
+      "options": [
+        {
+          "key": "A",
+          "text": "批评党的任何组织和任何党员"
+        },
+        {
+          "key": "B",
+          "text": "要求处分违法乱纪的党员"
+        },
+        {
+          "key": "C",
+          "text": "要求罢免或撤换不称职的干部"
+        },
+        {
+          "key": "D",
+          "text": "对党的决议和政策提出不同意"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "党员有权批评组织和个人、要求处分违纪党员、要求罢免不称职干部、对决议提出不同意见。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-047",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "党的组织体系包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "中央组织"
+        },
+        {
+          "key": "B",
+          "text": "地方组织"
+        },
+        {
+          "key": "C",
+          "text": "基层组织"
+        },
+        {
+          "key": "D",
+          "text": "群众组织"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "党的组织体系包括中央组织、地方组织、基层组织。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-048",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "党的优良作风包括？",
+      "options": [
+        {
+          "key": "A",
+          "text": "密切联系群众"
+        },
+        {
+          "key": "B",
+          "text": "理论联系实际"
+        },
+        {
+          "key": "C",
+          "text": "批评与自我批评"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "三大优良作风是密切联系群众、理论联系实际、批评与自我批评。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-049",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "社会主义核心价值观中社会层面的要求是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "自由"
+        },
+        {
+          "key": "B",
+          "text": "平等"
+        },
+        {
+          "key": "C",
+          "text": "公正"
+        },
+        {
+          "key": "D",
+          "text": "法治"
+        }
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "社会层面是自由、平等、公正、法治。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    },
+    {
+      "question_label": "多选",
+      "id": "party-basic-050",
+      "type": "multiple",
+      "category": "partyBasic",
+      "difficulty": "normal",
+      "stem": "新时代党的建设总要求中，以什么为主线？",
+      "options": [
+        {
+          "key": "A",
+          "text": "加强党的长期执政能力建设"
+        },
+        {
+          "key": "B",
+          "text": "先进性和纯洁性建设"
+        },
+        {
+          "key": "C",
+          "text": "政治建设"
+        },
+        {
+          "key": "D",
+          "text": "纪律建设"
+        }
+      ],
+      "answer": [
+        "A",
+        "B"
+      ],
+      "explanation": "以加强党的长期执政能力建设、先进性和纯洁性建设为主线。",
+      "knowledge_point": "党的基础知识",
+      "tags": [
+        "党的基础知识",
+        "多选题"
+      ]
+    }
+  ]
+}
