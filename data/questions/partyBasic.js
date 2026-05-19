@@ -12,22 +12,22 @@ const questions = [
       },
       {
         "key": "B",
-        "text": "1921年"
+        "text": "1920年"
       },
       {
         "key": "C",
-        "text": "1949年"
+        "text": "1921年"
       },
       {
         "key": "D",
-        "text": "1978年"
+        "text": "1922年"
       }
     ],
     "answer": [
-      "B"
+      "C"
     ],
-    "explanation": "中国共产党于1921年成立，这是中国近现代史上开天辟地的大事变。",
-    "knowledgePoint": "党的成立时间",
+    "explanation": "1921年7月23日，中国共产党第一次全国代表大会在上海开幕（后转移至浙江嘉兴南湖红船），标志着中国共产党的正式成立。",
+    "knowledgePoint": "建党时间",
     "tags": [
       "党的基础知识"
     ]
@@ -37,30 +37,30 @@ const questions = [
     "type": "single",
     "category": "partyBasic",
     "difficulty": "easy",
-    "stem": "中国共产党的根本宗旨是？",
+    "stem": "中国共产党的最高理想和最终目标是（ ）。",
     "options": [
       {
         "key": "A",
-        "text": "全心全意为人民服务"
+        "text": "实现共产主义"
       },
       {
         "key": "B",
-        "text": "追求个人利益最大化"
+        "text": "建设中国特色社会主义"
       },
       {
         "key": "C",
-        "text": "只重视经济增长速度"
+        "text": "全面建成小康社会"
       },
       {
         "key": "D",
-        "text": "保持组织规模不变"
+        "text": "实现中华民族伟大复兴"
       }
     ],
     "answer": [
       "A"
     ],
-    "explanation": "全心全意为人民服务是中国共产党的根本宗旨，也是党员行动的重要价值指向。",
-    "knowledgePoint": "党的宗旨",
+    "explanation": "《中国共产党章程》总纲明确指出，党的最高理想和最终目标是实现共产主义。",
+    "knowledgePoint": "最高理想",
     "tags": [
       "党的基础知识"
     ]
@@ -70,30 +70,30 @@ const questions = [
     "type": "single",
     "category": "partyBasic",
     "difficulty": "easy",
-    "stem": "中国共产党的最高理想和最终目标是？",
+    "stem": "中国共产党的根本宗旨是（ ）。",
     "options": [
       {
         "key": "A",
-        "text": "实现共产主义"
+        "text": "发展生产力"
       },
       {
         "key": "B",
-        "text": "建立行业协会"
+        "text": "全心全意为人民服务"
       },
       {
         "key": "C",
-        "text": "扩大地方自治"
+        "text": "维护社会稳定"
       },
       {
         "key": "D",
-        "text": "维持旧制度"
+        "text": "巩固执政地位"
       }
     ],
     "answer": [
-      "A"
+      "B"
     ],
-    "explanation": "实现共产主义是中国共产党的最高理想和最终目标。",
-    "knowledgePoint": "党的最终目标",
+    "explanation": "全心全意为人民服务是党的根本宗旨。党除了工人阶级和最广大人民群众的利益，没有自己特殊的利益。",
+    "knowledgePoint": "根本宗旨",
     "tags": [
       "党的基础知识"
     ]
@@ -102,31 +102,31 @@ const questions = [
     "id": "party-basic-004",
     "type": "single",
     "category": "partyBasic",
-    "difficulty": "normal",
-    "stem": "中国共产党人的初心和使命是？",
+    "difficulty": "easy",
+    "stem": "中国共产党第一篇反对教条主义的重要文献是毛泽东撰写的（ ）。",
     "options": [
       {
         "key": "A",
-        "text": "为中国人民谋幸福，为中华民族谋复兴"
+        "text": "《星星之火，可以燎原》"
       },
       {
         "key": "B",
-        "text": "为少数人谋特殊利益"
+        "text": "《反对本本主义》"
       },
       {
         "key": "C",
-        "text": "只追求短期发展指标"
+        "text": "《实践论》"
       },
       {
         "key": "D",
-        "text": "回避历史责任"
+        "text": "《矛盾论》"
       }
     ],
     "answer": [
-      "A"
+      "B"
     ],
-    "explanation": "为中国人民谋幸福、为中华民族谋复兴，是中国共产党人的初心和使命。",
-    "knowledgePoint": "初心使命",
+    "explanation": "1930年毛泽东撰写的《反对本本主义》初步提出了“没有调查，没有发言权”的重要论断，是党内第一篇反对教条主义的文献。",
+    "knowledgePoint": "理论文献",
     "tags": [
       "党的基础知识"
     ]
@@ -135,31 +135,31 @@ const questions = [
     "id": "party-basic-005",
     "type": "single",
     "category": "partyBasic",
-    "difficulty": "normal",
-    "stem": "中国特色社会主义最本质的特征是？",
+    "difficulty": "easy",
+    "stem": "确立毛泽东思想为党的指导思想的会议是（ ）。",
     "options": [
       {
         "key": "A",
-        "text": "中国共产党领导"
+        "text": "遵义会议"
       },
       {
         "key": "B",
-        "text": "完全照搬他国模式"
+        "text": "瓦窑堡会议"
       },
       {
         "key": "C",
-        "text": "取消基层治理"
+        "text": "党的七大"
       },
       {
         "key": "D",
-        "text": "削弱人民主体地位"
+        "text": "党的八大"
       }
     ],
     "answer": [
-      "A"
+      "C"
     ],
-    "explanation": "中国共产党领导是中国特色社会主义最本质的特征。",
-    "knowledgePoint": "党的领导",
+    "explanation": "1945年召开的中共七大，将毛泽东思想确立为党的指导思想并写入党章。",
+    "knowledgePoint": "党的七大",
     "tags": [
       "党的基础知识"
     ]
@@ -169,30 +169,30 @@ const questions = [
     "type": "single",
     "category": "partyBasic",
     "difficulty": "easy",
-    "stem": "中国共产党党徽的基本图案由什么组成？",
+    "stem": "中国共产党在长期奋斗中形成的三大作风是（ ）。",
     "options": [
       {
         "key": "A",
-        "text": "镰刀和锤头"
+        "text": "理论联系实际、密切联系群众、批评与自我批评"
       },
       {
         "key": "B",
-        "text": "麦穗和齿轮"
+        "text": "实事求是、群众路线、独立自主"
       },
       {
         "key": "C",
-        "text": "长城和黄河"
+        "text": "统一战线、武装斗争、党的建设"
       },
       {
         "key": "D",
-        "text": "书本和火炬"
+        "text": "谦虚谨慎、戒骄戒躁、艰苦奋斗"
       }
     ],
     "answer": [
       "A"
     ],
-    "explanation": "中国共产党党徽为镰刀和锤头组成的图案。",
-    "knowledgePoint": "党徽知识",
+    "explanation": "毛泽东在党的七大上作的《论联合政府》报告中，概括了党的三大优良作风。",
+    "knowledgePoint": "三大作风",
     "tags": [
       "党的基础知识"
     ]
@@ -201,31 +201,31 @@ const questions = [
     "id": "party-basic-007",
     "type": "single",
     "category": "partyBasic",
-    "difficulty": "normal",
-    "stem": "党的群众路线强调的工作方法是？",
+    "difficulty": "easy",
+    "stem": "标志着中国共产党开始独立领导革命战争和创立人民军队的事件是（ ）。",
     "options": [
       {
         "key": "A",
-        "text": "一切为了群众，一切依靠群众，从群众中来，到群众中去"
+        "text": "秋收起义"
       },
       {
         "key": "B",
-        "text": "只在会议材料中了解群众"
+        "text": "广州起义"
       },
       {
         "key": "C",
-        "text": "把群众需求放在工作之外"
+        "text": "南昌起义"
       },
       {
         "key": "D",
-        "text": "用单一指标代替实际调查"
+        "text": "武昌起义"
       }
     ],
     "answer": [
-      "A"
+      "C"
     ],
-    "explanation": "群众路线要求党员干部密切联系群众，把群众实践中的经验转化为工作方法。",
-    "knowledgePoint": "群众路线",
+    "explanation": "1927年8月1日的南昌起义打响了武装反抗国民党反动派的第一枪，标志着党独立领导武装斗争的开始。",
+    "knowledgePoint": "南昌起义",
     "tags": [
       "党的基础知识"
     ]
@@ -235,30 +235,30 @@ const questions = [
     "type": "single",
     "category": "partyBasic",
     "difficulty": "easy",
-    "stem": "党的根本组织原则是？",
+    "stem": "党的根本组织原则是（ ）。",
     "options": [
       {
         "key": "A",
-        "text": "民主集中制"
+        "text": "少数服从多数"
       },
       {
         "key": "B",
-        "text": "个人决定制"
+        "text": "民主集中制"
       },
       {
         "key": "C",
-        "text": "轮流负责制"
+        "text": "下级服从上级"
       },
       {
         "key": "D",
-        "text": "临时协商制"
+        "text": "理论联系实际"
       }
     ],
     "answer": [
-      "A"
+      "B"
     ],
-    "explanation": "民主集中制是党的根本组织原则。",
-    "knowledgePoint": "民主集中制",
+    "explanation": "民主集中制是民主基础上的集中和集中指导下的民主相结合，是党的根本组织原则和领导制度。",
+    "knowledgePoint": "组织原则",
     "tags": [
       "党的基础知识"
     ]
@@ -267,31 +267,31 @@ const questions = [
     "id": "party-basic-009",
     "type": "single",
     "category": "partyBasic",
-    "difficulty": "normal",
-    "stem": "中国共产党最大的政治优势是？",
+    "difficulty": "easy",
+    "stem": "发展党员，必须把（ ）放在首位，经过党的支部，坚持个别吸收的原则。",
     "options": [
       {
         "key": "A",
-        "text": "密切联系群众"
+        "text": "政治标准"
       },
       {
         "key": "B",
-        "text": "脱离基层实践"
+        "text": "道德标准"
       },
       {
         "key": "C",
-        "text": "回避社会问题"
+        "text": "工作能力"
       },
       {
         "key": "D",
-        "text": "只依靠行政命令"
+        "text": "群众基础"
       }
     ],
     "answer": [
       "A"
     ],
-    "explanation": "密切联系群众是中国共产党的最大政治优势。",
-    "knowledgePoint": "党的政治优势",
+    "explanation": "《中国共产党章程》规定，发展党员必须把政治标准放在首位，严格履行入党手续。",
+    "knowledgePoint": "发展党员",
     "tags": [
       "党的基础知识"
     ]
@@ -300,31 +300,31 @@ const questions = [
     "id": "party-basic-010",
     "type": "single",
     "category": "partyBasic",
-    "difficulty": "normal",
-    "stem": "党执政后的最大危险是？",
+    "difficulty": "easy",
+    "stem": "党员的党龄，从（ ）之日算起。",
     "options": [
       {
         "key": "A",
-        "text": "脱离群众"
+        "text": "递交入党申请书"
       },
       {
         "key": "B",
-        "text": "联系群众"
+        "text": "支部大会通过其为预备党员"
       },
       {
         "key": "C",
-        "text": "深入调研"
+        "text": "预备期满转为正式党员"
       },
       {
         "key": "D",
-        "text": "接受监督"
+        "text": "参加入党宣誓"
       }
     ],
     "answer": [
-      "A"
+      "C"
     ],
-    "explanation": "脱离群众是党执政后的最大危险，因此必须始终保持党同人民群众的血肉联系。",
-    "knowledgePoint": "群众观点",
+    "explanation": "党章规定，党员的党龄，从预备期满转为正式党员之日算起。",
+    "knowledgePoint": "党龄计算",
     "tags": [
       "党的基础知识"
     ]
@@ -333,31 +333,31 @@ const questions = [
     "id": "party-basic-011",
     "type": "single",
     "category": "partyBasic",
-    "difficulty": "normal",
-    "stem": "“四个意识”不包括下列哪一项？",
+    "difficulty": "easy",
+    "stem": "中国共产党人的初心和使命，就是为中国人民（ ），为中华民族（ ）。",
     "options": [
       {
         "key": "A",
-        "text": "政治意识"
+        "text": "谋幸福，谋未来"
       },
       {
         "key": "B",
-        "text": "大局意识"
+        "text": "谋生活，谋复兴"
       },
       {
         "key": "C",
-        "text": "核心意识"
+        "text": "谋幸福，谋复兴"
       },
       {
         "key": "D",
-        "text": "旁观意识"
+        "text": "谋发展，谋强大"
       }
     ],
     "answer": [
-      "D"
+      "C"
     ],
-    "explanation": "“四个意识”是政治意识、大局意识、核心意识、看齐意识。",
-    "knowledgePoint": "四个意识",
+    "explanation": "党的十九大报告指出，中国共产党人的初心和使命，就是为中国人民谋幸福，为中华民族谋复兴。",
+    "knowledgePoint": "初心使命",
     "tags": [
       "党的基础知识"
     ]
@@ -366,31 +366,2935 @@ const questions = [
     "id": "party-basic-012",
     "type": "single",
     "category": "partyBasic",
-    "difficulty": "normal",
-    "stem": "党员在组织生活中应当坚持的基本态度是？",
+    "difficulty": "easy",
+    "stem": "党的十一届三中全会重新确立的党的思想路线是（ ）。",
     "options": [
       {
         "key": "A",
-        "text": "实事求是，开展批评和自我批评"
+        "text": "解放思想、实事求是"
       },
       {
         "key": "B",
-        "text": "只讲成绩，不谈问题"
+        "text": "与时俱进"
       },
       {
         "key": "C",
-        "text": "回避群众意见"
+        "text": "求真务实"
       },
       {
         "key": "D",
-        "text": "把个人情绪放在纪律之前"
+        "text": "理论联系实际"
       }
     ],
     "answer": [
       "A"
     ],
-    "explanation": "严肃党内政治生活，需要坚持实事求是，开展批评和自我批评。",
+    "explanation": "1978年召开的十一届三中全会，重新确立了解放思想、实事求是的马克思主义思想路线。",
+    "knowledgePoint": "思想路线",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-013",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "把邓小平理论确立为党的指导思想的会议是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "党的十三大"
+      },
+      {
+        "key": "B",
+        "text": "党的十四大"
+      },
+      {
+        "key": "C",
+        "text": "党的十五大"
+      },
+      {
+        "key": "D",
+        "text": "党的十六大"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "1997年党的十五大把邓小平理论同马克思列宁主义、毛泽东思想一起，确立为党的指导思想并写入党章。",
+    "knowledgePoint": "党的十五大",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-014",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "“三个代表”重要思想指出，中国共产党始终代表中国（ ）的发展要求。",
+    "options": [
+      {
+        "key": "A",
+        "text": "先进生产力"
+      },
+      {
+        "key": "B",
+        "text": "先进文化"
+      },
+      {
+        "key": "C",
+        "text": "最广大人民根本利益"
+      },
+      {
+        "key": "D",
+        "text": "社会主义现代化"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "“三个代表”指：代表中国先进生产力的发展要求，代表中国先进文化的前进方向，代表中国最广大人民的根本利益。",
+    "knowledgePoint": "三个代表",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-015",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "科学发展观的核心立场是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "全面协调可持续"
+      },
+      {
+        "key": "B",
+        "text": "统筹兼顾"
+      },
+      {
+        "key": "C",
+        "text": "以人为本"
+      },
+      {
+        "key": "D",
+        "text": "发展"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "科学发展观，第一要义是发展，核心立场是以人为本，基本要求是全面协调可持续，根本方法是统筹兼顾。",
+    "knowledgePoint": "科学发展观",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-016",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "中国特色社会主义最本质的特征是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "人民当家作主"
+      },
+      {
+        "key": "B",
+        "text": "中国共产党领导"
+      },
+      {
+        "key": "C",
+        "text": "依法治国"
+      },
+      {
+        "key": "D",
+        "text": "改革开放"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "习近平新时代中国特色社会主义思想明确提出，中国特色社会主义最本质的特征是中国共产党领导。",
+    "knowledgePoint": "本质特征",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-017",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党章规定，党的各级委员会实行（ ）的制度。",
+    "options": [
+      {
+        "key": "A",
+        "text": "民主集中制"
+      },
+      {
+        "key": "B",
+        "text": "集体领导和个人分工负责相结合"
+      },
+      {
+        "key": "C",
+        "text": "个人高度集权"
+      },
+      {
+        "key": "D",
+        "text": "少数服从多数"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "党章指出，党的各级委员会实行集体领导和个人分工负责相结合的制度。",
+    "knowledgePoint": "领导制度",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-018",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党的纪律中，最根本、最重要、最关键的纪律是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "组织纪律"
+      },
+      {
+        "key": "B",
+        "text": "廉洁纪律"
+      },
+      {
+        "key": "C",
+        "text": "政治纪律"
+      },
+      {
+        "key": "D",
+        "text": "群众纪律"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "政治纪律是各级党组织和全体党员在政治方向、政治立场、政治言论、政治行为方面必须遵守的规矩。",
+    "knowledgePoint": "党的纪律",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-019",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "中国共产党的党徽党旗是中国共产党的象征和标志。党徽为（ ）组成的图案。",
+    "options": [
+      {
+        "key": "A",
+        "text": "麦穗和齿轮"
+      },
+      {
+        "key": "B",
+        "text": "镰刀和锤头"
+      },
+      {
+        "key": "C",
+        "text": "镰刀和斧头"
+      },
+      {
+        "key": "D",
+        "text": "谷穗和锤子"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "《中国共产党章程》规定，中国共产党党徽为镰刀和锤头组成的图案。",
+    "knowledgePoint": "党徽党旗",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-020",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "新时代我国社会主要矛盾是人民日益增长的（ ）和不平衡不充分的发展之间的矛盾。",
+    "options": [
+      {
+        "key": "A",
+        "text": "物质文化需要"
+      },
+      {
+        "key": "B",
+        "text": "美好生活需要"
+      },
+      {
+        "key": "C",
+        "text": "精神文化需要"
+      },
+      {
+        "key": "D",
+        "text": "经济社会发展需要"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "中国特色社会主义进入新时代，我国社会主要矛盾已经转化为人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾。",
+    "knowledgePoint": "社会主要矛盾",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-021",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "“四个全面”战略布局不包括（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "全面建设社会主义现代化国家"
+      },
+      {
+        "key": "B",
+        "text": "全面深化改革"
+      },
+      {
+        "key": "C",
+        "text": "全面依法治国"
+      },
+      {
+        "key": "D",
+        "text": "全面建成小康社会"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": "“四个全面”目前表述为：全面建设社会主义现代化国家、全面深化改革、全面依法治国、全面从严治党。",
+    "knowledgePoint": "四个全面",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-022",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "我们党执政兴国的第一要务是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "改革"
+      },
+      {
+        "key": "B",
+        "text": "发展"
+      },
+      {
+        "key": "C",
+        "text": "稳定"
+      },
+      {
+        "key": "D",
+        "text": "创新"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "发展是我们党执政兴国的第一要务。必须坚持以经济建设为中心。",
+    "knowledgePoint": "执政要务",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-023",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "在党史学习教育中，提出的“学史明理、学史增信、学史崇德、学史力行”中，“明理”主要指明白（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "马克思主义为什么行、中国共产党为什么能、中国特色社会主义为什么好"
+      },
+      {
+        "key": "B",
+        "text": "历史发展的规律"
+      },
+      {
+        "key": "C",
+        "text": "为人处世的道理"
+      },
+      {
+        "key": "D",
+        "text": "党的纪律规矩"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "学史明理，就是要深刻领悟中国共产党为什么能、马克思主义为什么行、中国特色社会主义为什么好的历史逻辑和理论逻辑。",
+    "knowledgePoint": "党史学习",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-024",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "“五位一体”总体布局指的是经济建设、政治建设、文化建设、社会建设和（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "生态文明建设"
+      },
+      {
+        "key": "B",
+        "text": "党的建设"
+      },
+      {
+        "key": "C",
+        "text": "国防建设"
+      },
+      {
+        "key": "D",
+        "text": "法治建设"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "党的十八大将生态文明建设纳入中国特色社会主义事业总体布局，形成了“五位一体”的总体布局。",
+    "knowledgePoint": "五位一体",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-025",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党的二十大的主题是：高举中国特色社会主义伟大旗帜，为全面建设社会主义现代化国家、全面推进（ ）而团结奋斗。",
+    "options": [
+      {
+        "key": "A",
+        "text": "中华民族伟大复兴"
+      },
+      {
+        "key": "B",
+        "text": "共同富裕"
+      },
+      {
+        "key": "C",
+        "text": "科技自立自强"
+      },
+      {
+        "key": "D",
+        "text": "高质量发展"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "党的二十大报告明确了大会的主题，核心是全面推进中华民族伟大复兴。",
+    "knowledgePoint": "二十大主题",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-026",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "新时代党的建设的根本方针是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "坚持党要管党、全面从严治党"
+      },
+      {
+        "key": "B",
+        "text": "坚持解放思想、实事求是"
+      },
+      {
+        "key": "C",
+        "text": "坚持全心全意为人民服务"
+      },
+      {
+        "key": "D",
+        "text": "坚持民主集中制"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "新时代党的建设总要求中明确提出，坚持党要管党、全面从严治党是新时代党的建设的根本方针。",
+    "knowledgePoint": "党的建设",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-027",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "（ ）是党的政治建设的首要任务。",
+    "options": [
+      {
+        "key": "A",
+        "text": "坚定理想信念"
+      },
+      {
+        "key": "B",
+        "text": "保证全党服从中央，坚持党中央权威和集中统一领导"
+      },
+      {
+        "key": "C",
+        "text": "完善党内政治生活"
+      },
+      {
+        "key": "D",
+        "text": "严明党的纪律"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "党的十九大报告指出，保证全党服从中央，坚持党中央权威和集中统一领导，是党的政治建设的首要任务。",
+    "knowledgePoint": "政治建设",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-028",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "“两个一百年”奋斗目标中，第一个百年奋斗目标是指（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "在建党一百年时全面建成小康社会"
+      },
+      {
+        "key": "B",
+        "text": "在建国一百年时建成社会主义现代化强国"
+      },
+      {
+        "key": "C",
+        "text": "在建军一百年时实现建军百年奋斗目标"
+      },
+      {
+        "key": "D",
+        "text": "在改革开放一百年时实现共同富裕"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "第一个百年奋斗目标是在中国共产党成立100年时全面建成小康社会。",
+    "knowledgePoint": "奋斗目标",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-029",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "中国共产党的最高领导机关是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "党的全国代表大会和它所产生的中央委员会"
+      },
+      {
+        "key": "B",
+        "text": "中央政治局"
+      },
+      {
+        "key": "C",
+        "text": "中央政治局常务委员会"
+      },
+      {
+        "key": "D",
+        "text": "中央书记处"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "《中国共产党章程》第十条规定，党的最高领导机关，是党的全国代表大会和它所产生的中央委员会。",
+    "knowledgePoint": "领导机关",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-030",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "全面从严治党的基础在（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "全面"
+      },
+      {
+        "key": "B",
+        "text": "严"
+      },
+      {
+        "key": "C",
+        "text": "治"
+      },
+      {
+        "key": "D",
+        "text": "党"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "全面从严治党，基础在全面，关键在严，要害在治。",
+    "knowledgePoint": "从严治党",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-031",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党内脱贫攻坚精神的核心内涵不包括（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "上下同心、尽锐出战"
+      },
+      {
+        "key": "B",
+        "text": "精准务实、开拓创新"
+      },
+      {
+        "key": "C",
+        "text": "攻坚克难、不负人民"
+      },
+      {
+        "key": "D",
+        "text": "敢为人先、百折不挠"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": "脱贫攻坚精神是“上下同心、尽锐出战、精准务实、开拓创新、攻坚克难、不负人民”。",
+    "knowledgePoint": "时代精神",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-032",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "伟大建党精神的内涵是：坚持真理、坚守理想，践行初心、担当使命，不怕牺牲、英勇斗争，（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "牢记使命、艰苦奋斗"
+      },
+      {
+        "key": "B",
+        "text": "对党忠诚、不负人民"
+      },
+      {
+        "key": "C",
+        "text": "艰苦奋斗、清正廉洁"
+      },
+      {
+        "key": "D",
+        "text": "团结一致、争取胜利"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "伟大建党精神即“坚持真理、坚守理想，践行初心、担当使命，不怕牺牲、英勇斗争，对党忠诚、不负人民”。",
+    "knowledgePoint": "建党精神",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-033",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党员如果没有正当理由，连续（ ）不参加党的组织生活，或不交纳党费，或不做党所分配的工作，就被认为是自行脱党。",
+    "options": [
+      {
+        "key": "A",
+        "text": "三个月"
+      },
+      {
+        "key": "B",
+        "text": "六个月"
+      },
+      {
+        "key": "C",
+        "text": "九个月"
+      },
+      {
+        "key": "D",
+        "text": "一年"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "《中国共产党章程》第九条明确规定，连续六个月不参加党的组织生活等，就被认为是自行脱党。",
+    "knowledgePoint": "党员管理",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-034",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "预备党员的权利，除了没有（ ）、选举权和被选举权以外，同正式党员一样。",
+    "options": [
+      {
+        "key": "A",
+        "text": "申诉权"
+      },
+      {
+        "key": "B",
+        "text": "控告权"
+      },
+      {
+        "key": "C",
+        "text": "表决权"
+      },
+      {
+        "key": "D",
+        "text": "建议权"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "党章规定，预备党员的权利，除了没有表决权、选举权和被选举权以外，也同正式党员一样。",
+    "knowledgePoint": "预备党员",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-035",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "中国共产党始终坚持的“四项基本原则”中，核心是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "坚持社会主义道路"
+      },
+      {
+        "key": "B",
+        "text": "坚持人民民主专政"
+      },
+      {
+        "key": "C",
+        "text": "坚持中国共产党的领导"
+      },
+      {
+        "key": "D",
+        "text": "坚持马克思列宁主义毛泽东思想"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "四项基本原则是立国之本。其中，坚持中国共产党的领导是四项基本原则的核心。",
+    "knowledgePoint": "四项基本原则",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-036",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "“三会一课”制度中的“一课”指的是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "党史课"
+      },
+      {
+        "key": "B",
+        "text": "党课"
+      },
+      {
+        "key": "C",
+        "text": "政治理论课"
+      },
+      {
+        "key": "D",
+        "text": "业务技能课"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "“三会一课”是指：定期召开支部党员大会、支部委员会、党小组会，按时上好党课。",
     "knowledgePoint": "组织生活",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-037",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "中国共产党的群众路线是：一切为了群众，一切依靠群众，（ ），到群众中去。",
+    "options": [
+      {
+        "key": "A",
+        "text": "从群众中来"
+      },
+      {
+        "key": "B",
+        "text": "相信群众"
+      },
+      {
+        "key": "C",
+        "text": "引导群众"
+      },
+      {
+        "key": "D",
+        "text": "服务群众"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "群众路线是党的生命线和根本工作路线。",
+    "knowledgePoint": "群众路线",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-038",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "（ ）是检验真理的唯一标准。",
+    "options": [
+      {
+        "key": "A",
+        "text": "理论"
+      },
+      {
+        "key": "B",
+        "text": "实践"
+      },
+      {
+        "key": "C",
+        "text": "群众意见"
+      },
+      {
+        "key": "D",
+        "text": "历史"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "1978年的真理标准问题大讨论，确立了“实践是检验真理的唯一标准”的马克思主义基本观点。",
+    "knowledgePoint": "真理标准",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-039",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "在党的发展历程中，被称为“生死攸关的转折点”的会议是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "八七会议"
+      },
+      {
+        "key": "B",
+        "text": "遵义会议"
+      },
+      {
+        "key": "C",
+        "text": "古田会议"
+      },
+      {
+        "key": "D",
+        "text": "洛川会议"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "1935年的遵义会议挽救了党，挽救了红军，挽救了中国革命。",
+    "knowledgePoint": "遵义会议",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-040",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党的基层委员会、总支部委员会、支部委员会每届任期（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "两年至三年"
+      },
+      {
+        "key": "B",
+        "text": "三年至五年"
+      },
+      {
+        "key": "C",
+        "text": "两年至五年"
+      },
+      {
+        "key": "D",
+        "text": "一年至三年"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "《中国共产党章程》规定，党的基层委员会、总支部委员会、支部委员会每届任期三年至五年。",
+    "knowledgePoint": "基层组织",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-041",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "贯穿习近平新时代中国特色社会主义思想的立场观点方法是“六个必须坚持”，其中放在第一位的是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "必须坚持自信自立"
+      },
+      {
+        "key": "B",
+        "text": "必须坚持人民至上"
+      },
+      {
+        "key": "C",
+        "text": "必须坚持守正创新"
+      },
+      {
+        "key": "D",
+        "text": "必须坚持问题导向"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "“六个必须坚持”首位是必须坚持人民至上。",
+    "knowledgePoint": "六个必须坚持",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-042",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "中国式现代化的本质要求首要的是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "坚持中国共产党领导"
+      },
+      {
+        "key": "B",
+        "text": "坚持中国特色社会主义"
+      },
+      {
+        "key": "C",
+        "text": "实现高质量发展"
+      },
+      {
+        "key": "D",
+        "text": "发展全过程人民民主"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "党的二十大报告指出，中国式现代化的本质要求第一条就是坚持党的领导。",
+    "knowledgePoint": "中国式现代化",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-043",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党领导人民治理国家的基本方略是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "依法治国"
+      },
+      {
+        "key": "B",
+        "text": "以德治国"
+      },
+      {
+        "key": "C",
+        "text": "改革开放"
+      },
+      {
+        "key": "D",
+        "text": "民主集中"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "依法治国是党领导人民治理国家的基本方略。",
+    "knowledgePoint": "治国方略",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-044",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "“四个意识”是指政治意识、大局意识、核心意识和（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "规矩意识"
+      },
+      {
+        "key": "B",
+        "text": "看齐意识"
+      },
+      {
+        "key": "C",
+        "text": "责任意识"
+      },
+      {
+        "key": "D",
+        "text": "担当意识"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "广大党员干部必须牢固树立政治意识、大局意识、核心意识、看齐意识。",
+    "knowledgePoint": "四个意识",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-045",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "“四个自信”是指道路自信、理论自信、制度自信和（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "文化自信"
+      },
+      {
+        "key": "B",
+        "text": "科技自信"
+      },
+      {
+        "key": "C",
+        "text": "军事自信"
+      },
+      {
+        "key": "D",
+        "text": "经济自信"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "全党必须坚定中国特色社会主义道路自信、理论自信、制度自信、文化自信。",
+    "knowledgePoint": "四个自信",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-046",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "“两个维护”是指坚决维护习近平总书记党中央的核心、全党的核心地位，坚决维护（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "党的团结统一"
+      },
+      {
+        "key": "B",
+        "text": "党中央权威和集中统一领导"
+      },
+      {
+        "key": "C",
+        "text": "国家安全和发展利益"
+      },
+      {
+        "key": "D",
+        "text": "党的政治纪律和政治规矩"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "“两个维护”是党的最高政治原则和根本政治规矩。",
+    "knowledgePoint": "两个维护",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-047",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "留党察看是党的纪律处分的一种，留党察看最长不超过（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "一年"
+      },
+      {
+        "key": "B",
+        "text": "两年"
+      },
+      {
+        "key": "C",
+        "text": "三年"
+      },
+      {
+        "key": "D",
+        "text": "四年"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "留党察看最长不超过两年。",
+    "knowledgePoint": "纪律处分",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-048",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党章规定，企业、农村等基层单位，凡是有正式党员（ ）以上的，都应当成立党的基层组织。",
+    "options": [
+      {
+        "key": "A",
+        "text": "两人"
+      },
+      {
+        "key": "B",
+        "text": "三人"
+      },
+      {
+        "key": "C",
+        "text": "四人"
+      },
+      {
+        "key": "D",
+        "text": "五人"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "党章第三十条规定，凡是有正式党员三人以上的基层单位，都应当成立党的基层组织。",
+    "knowledgePoint": "基层组织",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-049",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "决定将党和国家工作中心转移到经济建设上来，实行改革开放的历史性会议是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "党的八大"
+      },
+      {
+        "key": "B",
+        "text": "十一届三中全会"
+      },
+      {
+        "key": "C",
+        "text": "十二届三中全会"
+      },
+      {
+        "key": "D",
+        "text": "党的十四大"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "1978年召开的十一届三中全会，作出了实行改革开放的历史性决策。",
+    "knowledgePoint": "十一届三中全会",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-050",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "我们党的最大政治优势是密切联系群众，党执政后的最大危险是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "脱离群众"
+      },
+      {
+        "key": "B",
+        "text": "腐败堕落"
+      },
+      {
+        "key": "C",
+        "text": "能力不足"
+      },
+      {
+        "key": "D",
+        "text": "骄傲自满"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "党章明确指出，我们党的最大政治优势是密切联系群众，党执政后的最大危险是脱离群众。",
+    "knowledgePoint": "党的作风",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-051",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党章规定，申请入党的人，必须年满（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "十六岁"
+      },
+      {
+        "key": "B",
+        "text": "十八岁"
+      },
+      {
+        "key": "C",
+        "text": "二十岁"
+      },
+      {
+        "key": "D",
+        "text": "二十二岁"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "《中国共产党章程》第一条明确规定，年满十八岁的先进分子可以申请加入中国共产党。",
+    "knowledgePoint": "入党条件",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-052",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "中国共产党在社会主义初级阶段的基本路线中，“一个中心”是指（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "以政治建设为中心"
+      },
+      {
+        "key": "B",
+        "text": "以经济建设为中心"
+      },
+      {
+        "key": "C",
+        "text": "以文化建设为中心"
+      },
+      {
+        "key": "D",
+        "text": "以生态建设为中心"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "党的基本路线是领导和团结全国各族人民，以经济建设为中心...",
+    "knowledgePoint": "基本路线",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-053",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "四项基本原则是立国之本，（ ）是强国之路。",
+    "options": [
+      {
+        "key": "A",
+        "text": "艰苦奋斗"
+      },
+      {
+        "key": "B",
+        "text": "科技创新"
+      },
+      {
+        "key": "C",
+        "text": "改革开放"
+      },
+      {
+        "key": "D",
+        "text": "独立自主"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "坚持改革开放是我们的强国之路。",
+    "knowledgePoint": "强国之路",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-054",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "预备党员的预备期为（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "半年"
+      },
+      {
+        "key": "B",
+        "text": "一年"
+      },
+      {
+        "key": "C",
+        "text": "一年半"
+      },
+      {
+        "key": "D",
+        "text": "两年"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "党章第七条规定，预备党员的预备期为一年。",
+    "knowledgePoint": "预备期",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-055",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党员在留党察看期间，没有（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "申诉权、控告权"
+      },
+      {
+        "key": "B",
+        "text": "表决权、选举权和被选举权"
+      },
+      {
+        "key": "C",
+        "text": "参加党的组织生活的权利"
+      },
+      {
+        "key": "D",
+        "text": "开展批评与自我批评的权利"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "党章规定，党员在留党察看期间没有表决权、选举权和被选举权。",
+    "knowledgePoint": "党员权利",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-056",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党的全国代表大会每（ ）举行一次，由中央委员会召集。",
+    "options": [
+      {
+        "key": "A",
+        "text": "三年"
+      },
+      {
+        "key": "B",
+        "text": "四年"
+      },
+      {
+        "key": "C",
+        "text": "五年"
+      },
+      {
+        "key": "D",
+        "text": "十年"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "党章第十九条规定，党的全国代表大会每五年举行一次。",
+    "knowledgePoint": "全国代表大会",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-057",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党的中央委员会总书记必须从（ ）中产生。",
+    "options": [
+      {
+        "key": "A",
+        "text": "中央委员"
+      },
+      {
+        "key": "B",
+        "text": "中央政治局委员"
+      },
+      {
+        "key": "C",
+        "text": "中央政治局常务委员会委员"
+      },
+      {
+        "key": "D",
+        "text": "中央书记处书记"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "党章第二十三条规定，中央委员会总书记必须从中央政治局常务委员会委员中产生。",
+    "knowledgePoint": "中央组织",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-058",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "当前，全党开展的发展党员工作的“十六字”总要求是：控制总量、优化结构、提高质量和（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "严格程序"
+      },
+      {
+        "key": "B",
+        "text": "纯洁队伍"
+      },
+      {
+        "key": "C",
+        "text": "发挥作用"
+      },
+      {
+        "key": "D",
+        "text": "强化考核"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "发展党员工作总要求：控制总量、优化结构、提高质量、发挥作用。",
+    "knowledgePoint": "党员发展",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-059",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "在“四个伟大”中，起决定性作用的是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "伟大斗争"
+      },
+      {
+        "key": "B",
+        "text": "伟大工程"
+      },
+      {
+        "key": "C",
+        "text": "伟大事业"
+      },
+      {
+        "key": "D",
+        "text": "伟大梦想"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "起决定性作用的是党的建设新的伟大工程。",
+    "knowledgePoint": "四个伟大",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-060",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "新发展理念是指：创新、协调、绿色、开放、（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "共享"
+      },
+      {
+        "key": "B",
+        "text": "共赢"
+      },
+      {
+        "key": "C",
+        "text": "平等"
+      },
+      {
+        "key": "D",
+        "text": "稳定"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "党的十八届五中全会明确提出创新、协调、绿色、开放、共享的新发展理念。",
+    "knowledgePoint": "新发展理念",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-061",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "中国梦的基本内涵是实现国家富强、民族振兴和（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "经济腾飞"
+      },
+      {
+        "key": "B",
+        "text": "人民幸福"
+      },
+      {
+        "key": "C",
+        "text": "社会和谐"
+      },
+      {
+        "key": "D",
+        "text": "科技强国"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "中国梦的本质是国家富强、民族振兴、人民幸福。",
+    "knowledgePoint": "中国梦",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-062",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党的二十大提出，归根到底是马克思主义行，是（ ）的马克思主义行。",
+    "options": [
+      {
+        "key": "A",
+        "text": "中国化现代化"
+      },
+      {
+        "key": "B",
+        "text": "中国化时代化"
+      },
+      {
+        "key": "C",
+        "text": "科学化大众化"
+      },
+      {
+        "key": "D",
+        "text": "理论化系统化"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "归根到底是马克思主义行，是中国化时代化的马克思主义行。",
+    "knowledgePoint": "马克思主义中国化",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-063",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "实现建军一百年奋斗目标，开创国防和军队现代化新局面，必须贯彻（ ）思想。",
+    "options": [
+      {
+        "key": "A",
+        "text": "习近平新时代中国特色社会主义"
+      },
+      {
+        "key": "B",
+        "text": "习近平强军"
+      },
+      {
+        "key": "C",
+        "text": "习近平法治"
+      },
+      {
+        "key": "D",
+        "text": "习近平外交"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "必须全面贯彻习近平强军思想。",
+    "knowledgePoint": "强军思想",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-064",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党的作风建设的核心问题是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "克服官僚主义"
+      },
+      {
+        "key": "B",
+        "text": "保持党同人民群众的血肉联系"
+      },
+      {
+        "key": "C",
+        "text": "反对形式主义"
+      },
+      {
+        "key": "D",
+        "text": "坚持清正廉洁"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "党章指出，党的作风建设的核心问题是保持党同人民群众的血肉联系。",
+    "knowledgePoint": "作风建设",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-065",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "1949年3月，党的七届二中全会在（ ）召开。毛泽东同志在会上提出了“两个务必”。",
+    "options": [
+      {
+        "key": "A",
+        "text": "延安"
+      },
+      {
+        "key": "B",
+        "text": "井冈山"
+      },
+      {
+        "key": "C",
+        "text": "西柏坡"
+      },
+      {
+        "key": "D",
+        "text": "遵义"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "党的七届二中全会在河北平山县西柏坡召开。",
+    "knowledgePoint": "七届二中全会",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-066",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党的二十大提出了全党同志必须牢记的“三个务必”，其中不包括（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "务必不忘初心、牢记使命"
+      },
+      {
+        "key": "B",
+        "text": "务必谦虚谨慎、艰苦奋斗"
+      },
+      {
+        "key": "C",
+        "text": "务必敢于斗争、善于斗争"
+      },
+      {
+        "key": "D",
+        "text": "务必实事求是、与时俱进"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": "“三个务必”：务必不忘初心、牢记使命，务必谦虚谨慎、艰苦奋斗，务必敢于斗争、善于斗争。",
+    "knowledgePoint": "三个务必",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-067",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "被称为“红船精神”的核心内涵是：开天辟地、敢为人先的首创精神，坚定理想、百折不挠的奋斗精神，以及（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "艰苦奋斗、实事求是的创业精神"
+      },
+      {
+        "key": "B",
+        "text": "尽力而为、量力而行的拼搏精神"
+      },
+      {
+        "key": "C",
+        "text": "立党为公、忠诚为民的奉献精神"
+      },
+      {
+        "key": "D",
+        "text": "不怕牺牲、敢于胜利的革命精神"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "“红船精神”包括：首创精神；奋斗精神；立党为公、忠诚为民的奉献精神。",
+    "knowledgePoint": "红船精神",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-068",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党员缺乏革命意志，不履行党员义务，不符合党员条件，党的支部应当对他进行教育，要求他限期改正；经教育仍无转变的，应当（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "给予警告处分"
+      },
+      {
+        "key": "B",
+        "text": "劝他退党"
+      },
+      {
+        "key": "C",
+        "text": "开除党籍"
+      },
+      {
+        "key": "D",
+        "text": "留党察看"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "《中国共产党章程》第九条规定，对缺乏革命意志、经教育仍无转变的党员，应当劝他退党。",
+    "knowledgePoint": "组织处置",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-069",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "中国式现代化，是中国共产党领导的社会主义现代化，既有各国现代化的共同特征，更有基于自己国情的（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "中国特色"
+      },
+      {
+        "key": "B",
+        "text": "时代特征"
+      },
+      {
+        "key": "C",
+        "text": "民族特点"
+      },
+      {
+        "key": "D",
+        "text": "发展优势"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "中国式现代化既有各国现代化的共同特征，更有基于自己国情的中国特色。",
+    "knowledgePoint": "中国式现代化",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-070",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "中国式现代化是人口规模巨大的现代化，是（ ）的现代化，是物质文明和精神文明相协调的现代化，是人与自然和谐共生的现代化，是走和平发展道路的现代化。",
+    "options": [
+      {
+        "key": "A",
+        "text": "全体人民共同富裕"
+      },
+      {
+        "key": "B",
+        "text": "经济高速增长"
+      },
+      {
+        "key": "C",
+        "text": "科技全面领先"
+      },
+      {
+        "key": "D",
+        "text": "社会绝对公平"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "“全体人民共同富裕”是中国式现代化的五个重要特征之一。",
+    "knowledgePoint": "现代化特征",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-071",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "（ ）是中国特色社会主义的本质要求和重要保障。",
+    "options": [
+      {
+        "key": "A",
+        "text": "共同富裕"
+      },
+      {
+        "key": "B",
+        "text": "全面依法治国"
+      },
+      {
+        "key": "C",
+        "text": "经济建设"
+      },
+      {
+        "key": "D",
+        "text": "从严治党"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "全面推进依法治国是中国特色社会主义的本质要求和重要保障。",
+    "knowledgePoint": "依法治国",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-072",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党支部的“三会”是指：定期召开支部党员大会、支部委员会和（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "民主生活会"
+      },
+      {
+        "key": "B",
+        "text": "组织生活会"
+      },
+      {
+        "key": "C",
+        "text": "党小组会"
+      },
+      {
+        "key": "D",
+        "text": "群众座谈会"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "“三会一课”制度中的“三会”是指支部党员大会、支部委员会、党小组会。",
+    "knowledgePoint": "三会一课",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-073",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "坚决维护国家安全，要贯彻（ ），把维护国家安全的战略主动权牢牢掌握在自己手中。",
+    "options": [
+      {
+        "key": "A",
+        "text": "综合国家安全观"
+      },
+      {
+        "key": "B",
+        "text": "总体国家安全观"
+      },
+      {
+        "key": "C",
+        "text": "全局国家安全观"
+      },
+      {
+        "key": "D",
+        "text": "现代国家安全观"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "习近平总书记创造性提出了总体国家安全观。",
+    "knowledgePoint": "国家安全观",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-074",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "中央八项规定的主要精神是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "改进调查研究、精简会议活动"
+      },
+      {
+        "key": "B",
+        "text": "改进工作作风、密切联系群众"
+      },
+      {
+        "key": "C",
+        "text": "厉行勤俭节约、反对铺张浪费"
+      },
+      {
+        "key": "D",
+        "text": "规范出访活动、改进新闻报道"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "中央八项规定的核心精神就是改进作风、密切联系群众。",
+    "knowledgePoint": "八项规定",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-075",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "“三严三实”中的“三严”是指：严以修身、严以用权、（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "严以律己"
+      },
+      {
+        "key": "B",
+        "text": "严以治家"
+      },
+      {
+        "key": "C",
+        "text": "严以管人"
+      },
+      {
+        "key": "D",
+        "text": "严以做人"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "“三严三实”即严以修身、严以用权、严以律己；谋事要实、创业要实、做人要实。",
+    "knowledgePoint": "三严三实",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-076",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党的“六大纪律”包括：政治纪律、组织纪律、（ ）、群众纪律、工作纪律、生活纪律。",
+    "options": [
+      {
+        "key": "A",
+        "text": "经济纪律"
+      },
+      {
+        "key": "B",
+        "text": "廉洁纪律"
+      },
+      {
+        "key": "C",
+        "text": "保密纪律"
+      },
+      {
+        "key": "D",
+        "text": "宣传纪律"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "《中国共产党纪律处分条例》将党的纪律分为政治纪律、组织纪律、廉洁纪律、群众纪律、工作纪律、生活纪律六项。",
+    "knowledgePoint": "六大纪律",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-077",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "监督执纪的“四种形态”中，经常开展批评和自我批评、约谈函询，让“红红脸、出出汗”成为常态，属于第（ ）种形态。",
+    "options": [
+      {
+        "key": "A",
+        "text": "一"
+      },
+      {
+        "key": "B",
+        "text": "二"
+      },
+      {
+        "key": "C",
+        "text": "三"
+      },
+      {
+        "key": "D",
+        "text": "四"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "第一种形态是：让咬耳扯袖、红脸出汗成为常态。",
+    "knowledgePoint": "四种形态",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-078",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党风廉政建设的“两个责任”是指党委负（ ），纪委负（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "主体责任；监督责任"
+      },
+      {
+        "key": "B",
+        "text": "领导责任；落实责任"
+      },
+      {
+        "key": "C",
+        "text": "监督责任；主体责任"
+      },
+      {
+        "key": "D",
+        "text": "直接责任；间接责任"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "党委负主体责任，纪委负监督责任。",
+    "knowledgePoint": "两个责任",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-079",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "根据情节严重的程度，对于严重违犯党的纪律、本身又不能纠正的党组织，上一级党的委员会在查明核实后可以予以（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "改组或解散"
+      },
+      {
+        "key": "B",
+        "text": "撤销或合并"
+      },
+      {
+        "key": "C",
+        "text": "警告或严重警告"
+      },
+      {
+        "key": "D",
+        "text": "降级或停职"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "对违纪党组织的纪律处理措施有改组和解散两种。",
+    "knowledgePoint": "纪律处分",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-080",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "我们党成立以来的历史经验证明，党内政治生活（ ），党就生机勃勃；党内政治生活（ ），党就病态丛生。",
+    "options": [
+      {
+        "key": "A",
+        "text": "正常、不正常"
+      },
+      {
+        "key": "B",
+        "text": "活跃、沉闷"
+      },
+      {
+        "key": "C",
+        "text": "严肃认真、不正常"
+      },
+      {
+        "key": "D",
+        "text": "严肃、随意"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "什么时候党内政治生活正常、健康，党就充满生机活力；反之，党就病态丛生。",
+    "knowledgePoint": "党内政治生活",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-081",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "全过程人民民主是社会主义民主政治的本质属性，是最广泛、最真实、（ ）的民主。",
+    "options": [
+      {
+        "key": "A",
+        "text": "最有效"
+      },
+      {
+        "key": "B",
+        "text": "最直接"
+      },
+      {
+        "key": "C",
+        "text": "最管用"
+      },
+      {
+        "key": "D",
+        "text": "最纯粹"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "全过程人民民主是社会主义民主政治的本质属性，是最广泛、最真实、最管用的民主。",
+    "knowledgePoint": "全过程人民民主",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-082",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "发展党员工作的基本程序中，确定入党积极分子后，需要经过（ ）以上的教育和考察，方可列为发展对象。",
+    "options": [
+      {
+        "key": "A",
+        "text": "半年"
+      },
+      {
+        "key": "B",
+        "text": "一年"
+      },
+      {
+        "key": "C",
+        "text": "一年半"
+      },
+      {
+        "key": "D",
+        "text": "两年"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "入党积极分子经过一年以上的教育和考察，方可列为发展对象。",
+    "knowledgePoint": "党员发展",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-083",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党员如果未经党组织同意，连续（ ）个月不交纳党费，按自行脱党处理。",
+    "options": [
+      {
+        "key": "A",
+        "text": "3"
+      },
+      {
+        "key": "B",
+        "text": "6"
+      },
+      {
+        "key": "C",
+        "text": "9"
+      },
+      {
+        "key": "D",
+        "text": "12"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "党章第九条规定，连续六个月不交纳党费，就被认为是自行脱党。",
+    "knowledgePoint": "党员管理",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-084",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "解决台湾问题、实现祖国完全统一，是党矢志不渝的历史任务。我们坚持（ ）、“一国两制”基本方针。",
+    "options": [
+      {
+        "key": "A",
+        "text": "和平统一"
+      },
+      {
+        "key": "B",
+        "text": "武力威慑"
+      },
+      {
+        "key": "C",
+        "text": "互利共赢"
+      },
+      {
+        "key": "D",
+        "text": "维持现状"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "基本方针是“和平统一、一国两制”。",
+    "knowledgePoint": "祖国统一",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-085",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "中国奉行（ ）的和平外交政策，始终根据事情本身的是非曲直决定自己的立场和政策。",
+    "options": [
+      {
+        "key": "A",
+        "text": "独立自主"
+      },
+      {
+        "key": "B",
+        "text": "不结盟"
+      },
+      {
+        "key": "C",
+        "text": "多边主义"
+      },
+      {
+        "key": "D",
+        "text": "互利共赢"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "坚持独立自主的和平外交政策，是我国外交的基本原则。",
+    "knowledgePoint": "外交政策",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-086",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "“两个确立”是指确立习近平同志党中央的核心、全党的核心地位，确立（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "中国特色社会主义道路的正确地位"
+      },
+      {
+        "key": "B",
+        "text": "习近平新时代中国特色社会主义思想的指导地位"
+      },
+      {
+        "key": "C",
+        "text": "改革开放的基本国策地位"
+      },
+      {
+        "key": "D",
+        "text": "依法治国的核心方略地位"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "“两个确立”，即确立核心地位和确立指导地位。",
+    "knowledgePoint": "两个确立",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-087",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "中国共产党的优良传统中，“理论联系实际”的反面是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "形式主义"
+      },
+      {
+        "key": "B",
+        "text": "经验主义"
+      },
+      {
+        "key": "C",
+        "text": "教条主义"
+      },
+      {
+        "key": "D",
+        "text": "官僚主义"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "教条主义是不从实际出发，盲目照搬书本知识和现成结论的错误倾向。",
+    "knowledgePoint": "作风建设",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-088",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "凡是成立党的新组织，或是撤销党的原有组织，必须由（ ）决定。",
+    "options": [
+      {
+        "key": "A",
+        "text": "同级党委"
+      },
+      {
+        "key": "B",
+        "text": "上级党组织"
+      },
+      {
+        "key": "C",
+        "text": "党员大会"
+      },
+      {
+        "key": "D",
+        "text": "支部委员会"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "《中国共产党章程》第十三条规定，必须由上级党组织决定。",
+    "knowledgePoint": "党的组织体制",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-089",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党的地方各级委员会全体会议，每年至少召开（ ）次。",
+    "options": [
+      {
+        "key": "A",
+        "text": "一"
+      },
+      {
+        "key": "B",
+        "text": "两"
+      },
+      {
+        "key": "C",
+        "text": "三"
+      },
+      {
+        "key": "D",
+        "text": "四"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "党章第二十七条规定，党的地方各级委员会全体会议，每年至少召开两次。",
+    "knowledgePoint": "地方组织",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-090",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "下列不属于“四个自信”范畴的是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "道路自信"
+      },
+      {
+        "key": "B",
+        "text": "理论自信"
+      },
+      {
+        "key": "C",
+        "text": "政治自信"
+      },
+      {
+        "key": "D",
+        "text": "文化自信"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "“四个自信”为：道路自信、理论自信、制度自信、文化自信。",
+    "knowledgePoint": "四个自信",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-091",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党支部是党的基础组织，担负直接教育党员、管理党员、监督党员和（ ）、宣传群众、凝聚群众、服务群众的职责。",
+    "options": [
+      {
+        "key": "A",
+        "text": "领导群众"
+      },
+      {
+        "key": "B",
+        "text": "组织群众"
+      },
+      {
+        "key": "C",
+        "text": "指挥群众"
+      },
+      {
+        "key": "D",
+        "text": "动员群众"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "党章第三十四条规定了党支部的主要职责，其中包括组织群众。",
+    "knowledgePoint": "党支部职责",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-092",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "构建人类命运共同体是世界各国人民前途所在。中国坚持对话协商，推动建设一个（ ）的世界。",
+    "options": [
+      {
+        "key": "A",
+        "text": "持久和平"
+      },
+      {
+        "key": "B",
+        "text": "普遍安全"
+      },
+      {
+        "key": "C",
+        "text": "共同繁荣"
+      },
+      {
+        "key": "D",
+        "text": "以上都是"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": "中国倡导推动建设持久和平、普遍安全、共同繁荣、开放包容、清洁美丽的世界。",
+    "knowledgePoint": "人类命运共同体",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-093",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "在应对各类风险挑战的过程中，我们党深刻认识到，（ ）是应对各种风险挑战的定海神针。",
+    "options": [
+      {
+        "key": "A",
+        "text": "经济发展"
+      },
+      {
+        "key": "B",
+        "text": "科技创新"
+      },
+      {
+        "key": "C",
+        "text": "中国共产党的领导"
+      },
+      {
+        "key": "D",
+        "text": "人民军队"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "中国共产党的领导是战胜一切困难和风险的定海神针。",
+    "knowledgePoint": "党的领导",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-094",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党的根本工作路线是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "实事求是"
+      },
+      {
+        "key": "B",
+        "text": "群众路线"
+      },
+      {
+        "key": "C",
+        "text": "民主集中制"
+      },
+      {
+        "key": "D",
+        "text": "改革开放"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "群众路线是党的生命线和根本工作路线。",
+    "knowledgePoint": "工作路线",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-095",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "推动高质量发展，必须坚持向（ ）要动力。",
+    "options": [
+      {
+        "key": "A",
+        "text": "扩大内需"
+      },
+      {
+        "key": "B",
+        "text": "改革创新"
+      },
+      {
+        "key": "C",
+        "text": "吸引外资"
+      },
+      {
+        "key": "D",
+        "text": "资源开发"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "推动高质量发展必须坚持向改革创新要动力。",
+    "knowledgePoint": "高质量发展",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-096",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党的二十大报告指出，（ ）是第一生产力、（ ）是第一资源、（ ）是第一动力。",
+    "options": [
+      {
+        "key": "A",
+        "text": "科技、人才、创新"
+      },
+      {
+        "key": "B",
+        "text": "创新、人才、科技"
+      },
+      {
+        "key": "C",
+        "text": "科技、创新、人才"
+      },
+      {
+        "key": "D",
+        "text": "人才、科技、创新"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "必须坚持科技是第一生产力、人才是第一资源、创新是第一动力。",
+    "knowledgePoint": "科教兴国",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-097",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "尊重自然、顺应自然、保护自然，是全面建设社会主义现代化国家的（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "基本要求"
+      },
+      {
+        "key": "B",
+        "text": "内在要求"
+      },
+      {
+        "key": "C",
+        "text": "首要前提"
+      },
+      {
+        "key": "D",
+        "text": "最终目的"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "尊重自然、顺应自然、保护自然，是全面建设社会主义现代化国家的内在要求。",
+    "knowledgePoint": "生态文明",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-098",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "党内民主是党的生命，是党内政治生活积极健康的重要（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "前提"
+      },
+      {
+        "key": "B",
+        "text": "基础"
+      },
+      {
+        "key": "C",
+        "text": "标志"
+      },
+      {
+        "key": "D",
+        "text": "保障"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "党内民主是党的生命，是党内政治生活积极健康的重要基础。",
+    "knowledgePoint": "党内民主",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-099",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "中国共产党的百年奋斗成功道路是党领导人民独立自主探索开辟出来的，（ ）是贯穿党百年奋斗的基点。",
+    "options": [
+      {
+        "key": "A",
+        "text": "独立自主"
+      },
+      {
+        "key": "B",
+        "text": "自力更生"
+      },
+      {
+        "key": "C",
+        "text": "艰苦奋斗"
+      },
+      {
+        "key": "D",
+        "text": "改革创新"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "独立自主是中华民族精神之魂，是贯穿党百年奋斗的基点。",
+    "knowledgePoint": "百年奋斗经验",
+    "tags": [
+      "党的基础知识"
+    ]
+  },
+  {
+    "id": "party-basic-100",
+    "type": "single",
+    "category": "partyBasic",
+    "difficulty": "easy",
+    "stem": "预备党员必须面向党旗进行入党宣誓。誓词的最后一句是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "对党忠诚"
+      },
+      {
+        "key": "B",
+        "text": "永不叛党"
+      },
+      {
+        "key": "C",
+        "text": "随时准备为党和人民牺牲一切"
+      },
+      {
+        "key": "D",
+        "text": "严守党的纪律"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "入党誓词全文最后一句为“永不叛党”。",
+    "knowledgePoint": "入党誓词",
     "tags": [
       "党的基础知识"
     ]

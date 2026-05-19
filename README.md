@@ -119,7 +119,7 @@ Settings -> Pages -> Build and deployment -> Source -> GitHub Actions
 H5 当前使用独立的 [`h5/question-bank.js`](h5/question-bank.js) 静态题库文件。更新题库后，需要同步更新 H5 题库文件，并修改 [`h5/index.html`](h5/index.html) 中的题库版本号，例如：
 
 ```html
-<script defer src="./question-bank.js?v=20260518"></script>
+<script defer src="./question-bank.js?v=20260519"></script>
 ```
 
 这样可以避免用户浏览器长期命中旧缓存。

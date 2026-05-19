@@ -22,7 +22,7 @@
 ## 部署注意
 
 - 面向微信内置浏览器分享时必须使用 HTTPS。
-- 题库更新后，同步更新 `index.html` 中 `question-bank.js?v=20260518` 的版本号，避免用户命中旧缓存。
+- 题库更新后，同步更新 `index.html` 中 `question-bank.js?v=20260519` 的版本号，避免用户命中旧缓存。
 - 页面已避免关键操作依赖 `position: fixed`，并使用 `100dvh` 与 `--app-height` 兼容移动 WebView 高度。
 
 ## GitHub Pages
